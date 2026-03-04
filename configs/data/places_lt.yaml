@@ -1,0 +1,3 @@
+dataset: "Places_LT"
+root: "/root/autodl-tmp/Places_LT"
+json_path: "llm_json/places.json"

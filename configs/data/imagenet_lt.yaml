@@ -1,0 +1,3 @@
+dataset: "ImageNet_LT"
+root: "/root/autodl-tmp/ImageNet_LT"
+json_path: "llm_json/imagenet.json"

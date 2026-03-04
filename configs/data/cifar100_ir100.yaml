@@ -1,0 +1,3 @@
+dataset: "CIFAR100_IR100"
+root: "/root/autodl-tmp"
+json_path: "llm_json/cifar100.json"

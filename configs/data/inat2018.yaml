@@ -1,0 +1,3 @@
+dataset: "iNaturalist2018"
+root: "/root/autodl-tmp"
+json_path: "llm_json/inat2018.json"

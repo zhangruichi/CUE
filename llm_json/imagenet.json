@@ -1,0 +1,5932 @@
+{
+    "tench": [
+        "goldfish",
+        "snoek fish",
+        "eel",
+        "silver salmon",
+        "rock beauty fish",
+        "clownfish",
+        "sturgeon",
+        "gar fish",
+        "lionfish",
+        "pufferfish"
+    ],
+    "goldfish": [
+        "tench",
+        "snoek fish",
+        "eel",
+        "silver salmon",
+        "rock beauty fish",
+        "clownfish",
+        "sturgeon",
+        "gar fish",
+        "lionfish",
+        "pufferfish"
+    ],
+    "great white shark": [
+        "tiger shark",
+        "hammerhead shark",
+        "electric ray",
+        "stingray"
+    ],
+    "tiger shark": [
+        "great white shark",
+        "hammerhead shark",
+        "electric ray",
+        "stingray"
+    ],
+    "hammerhead shark": [
+        "great white shark",
+        "tiger shark",
+        "electric ray",
+        "stingray"
+    ],
+    "electric ray": [
+        "stingray",
+        "great white shark",
+        "tiger shark",
+        "hammerhead shark"
+    ],
+    "stingray": [
+        "electric ray",
+        "great white shark",
+        "tiger shark",
+        "hammerhead shark"
+    ],
+    "rooster": [
+        "hen",
+        "ostrich",
+        "peafowl",
+        "partridge",
+        "quail"
+    ],
+    "hen": [
+        "rooster",
+        "ostrich",
+        "peafowl",
+        "partridge",
+        "quail"
+    ],
+    "ostrich": [
+        "rooster",
+        "hen",
+        "peafowl"
+    ],
+    "brambling": [
+        "goldfinch",
+        "house finch",
+        "junco",
+        "indigo bunting",
+        "American robin",
+        "bulbul",
+        "chickadee"
+    ],
+    "goldfinch": [
+        "brambling",
+        "house finch",
+        "bulbul",
+        "jay",
+        "chickadee"
+    ],
+    "house finch": [
+        "brambling",
+        "goldfinch",
+        "junco",
+        "indigo bunting",
+        "bulbul",
+        "chickadee"
+    ],
+    "junco": [
+        "brambling",
+        "house finch",
+        "indigo bunting",
+        "bulbul",
+        "chickadee"
+    ],
+    "indigo bunting": [
+        "brambling",
+        "goldfinch",
+        "house finch",
+        "junco",
+        "bulbul",
+        "chickadee"
+    ],
+    "bulbul": [
+        "brambling",
+        "goldfinch",
+        "house finch",
+        "junco",
+        "indigo bunting",
+        "chickadee",
+        "jay",
+        "magpie"
+    ],
+    "jay": [
+        "bulbul",
+        "magpie",
+        "chickadee",
+        "kite (bird of prey)",
+        "bald eagle"
+    ],
+    "magpie": [
+        "bulbul",
+        "jay",
+        "chickadee",
+        "kite (bird of prey)",
+        "bald eagle"
+    ],
+    "chickadee": [
+        "brambling",
+        "goldfinch",
+        "house finch",
+        "junco",
+        "indigo bunting",
+        "bulbul",
+        "jay",
+        "magpie"
+    ],
+    "American dipper": [
+        "rooster",
+        "hen",
+        "ostrich",
+        "brambling",
+        "goldfinch",
+        "house finch",
+        "junco",
+        "indigo bunting",
+        "American robin",
+        "bulbul",
+        "jay",
+        "magpie",
+        "chickadee"
+    ],
+    "kite (bird of prey)": [
+        "bald eagle",
+        "vulture",
+        "great grey owl"
+    ],
+    "bald eagle": [
+        "kite (bird of prey)",
+        "vulture",
+        "great grey owl"
+    ],
+    "vulture": [
+        "bald eagle",
+        "kite (bird of prey)",
+        "great grey owl"
+    ],
+    "great grey owl": [
+        "bald eagle",
+        "kite (bird of prey)",
+        "vulture"
+    ],
+    "fire salamander": [
+        "smooth newt",
+        "newt",
+        "spotted salamander",
+        "axolotl"
+    ],
+    "smooth newt": [
+        "fire salamander",
+        "newt",
+        "spotted salamander",
+        "axolotl"
+    ],
+    "newt": [
+        "fire salamander",
+        "smooth newt",
+        "spotted salamander",
+        "axolotl"
+    ],
+    "spotted salamander": [
+        "fire salamander",
+        "smooth newt",
+        "newt",
+        "axolotl"
+    ],
+    "axolotl": [
+        "fire salamander",
+        "smooth newt",
+        "newt",
+        "spotted salamander"
+    ],
+    "American bullfrog": [
+        "tree frog",
+        "tailed frog",
+        "fire salamander",
+        "smooth newt",
+        "newt",
+        "spotted salamander",
+        "axolotl"
+    ],
+    "tree frog": [
+        "American bullfrog",
+        "tailed frog",
+        "fire salamander",
+        "smooth newt",
+        "newt",
+        "spotted salamander",
+        "axolotl"
+    ],
+    "tailed frog": [
+        "American bullfrog",
+        "tree frog",
+        "fire salamander",
+        "smooth newt",
+        "newt",
+        "spotted salamander",
+        "axolotl"
+    ],
+    "loggerhead sea turtle": [
+        "leatherback sea turtle",
+        "mud turtle",
+        "terrapin",
+        "box turtle",
+        "green iguana",
+        "banded gecko"
+    ],
+    "leatherback sea turtle": [
+        "loggerhead sea turtle",
+        "mud turtle",
+        "terrapin",
+        "box turtle",
+        "green iguana",
+        "banded gecko"
+    ],
+    "mud turtle": [
+        "loggerhead sea turtle",
+        "leatherback sea turtle",
+        "terrapin",
+        "box turtle",
+        "green iguana",
+        "banded gecko"
+    ],
+    "terrapin": [
+        "loggerhead sea turtle",
+        "leatherback sea turtle",
+        "mud turtle",
+        "box turtle",
+        "green iguana",
+        "banded gecko"
+    ],
+    "box turtle": [
+        "loggerhead sea turtle",
+        "leatherback sea turtle",
+        "mud turtle",
+        "terrapin",
+        "green iguana",
+        "banded gecko"
+    ],
+    "banded gecko": [
+        "box turtle",
+        "mud turtle",
+        "terrapin",
+        "loggerhead sea turtle",
+        "leatherback sea turtle",
+        "green iguana",
+        "Carolina anole",
+        "desert grassland whiptail lizard"
+    ],
+    "green iguana": [
+        "banded gecko",
+        "loggerhead sea turtle",
+        "leatherback sea turtle",
+        "mud turtle",
+        "terrapin",
+        "box turtle",
+        "Carolina anole",
+        "desert grassland whiptail lizard"
+    ],
+    "Carolina anole": [
+        "desert grassland whiptail lizard",
+        "green iguana",
+        "European green lizard",
+        "alligator lizard",
+        "agama"
+    ],
+    "desert grassland whiptail lizard": [
+        "Carolina anole",
+        "green iguana",
+        "European green lizard",
+        "alligator lizard",
+        "agama"
+    ],
+    "agama": [
+        "Carolina anole",
+        "desert grassland whiptail lizard",
+        "green iguana",
+        "European green lizard",
+        "frilled-necked lizard"
+    ],
+    "frilled-necked lizard": [
+        "agama",
+        "chameleon",
+        "alligator lizard",
+        "European green lizard",
+        "green iguana"
+    ],
+    "alligator lizard": [
+        "Carolina anole",
+        "desert grassland whiptail lizard",
+        "green iguana",
+        "European green lizard",
+        "frilled-necked lizard"
+    ],
+    "Gila monster": [
+        "Komodo dragon",
+        "Nile crocodile",
+        "chameleon",
+        "alligator lizard"
+    ],
+    "European green lizard": [
+        "Carolina anole",
+        "desert grassland whiptail lizard",
+        "green iguana",
+        "alligator lizard",
+        "agama"
+    ],
+    "chameleon": [
+        "frilled-necked lizard",
+        "Gila monster",
+        "Komodo dragon",
+        "European green lizard",
+        "green iguana"
+    ],
+    "Komodo dragon": [
+        "chameleon",
+        "Gila monster",
+        "Nile crocodile",
+        "alligator lizard",
+        "frilled-necked lizard"
+    ],
+    "Nile crocodile": [
+        "Komodo dragon",
+        "American alligator",
+        "Gila monster",
+        "alligator lizard"
+    ],
+    "American alligator": [
+        "Nile crocodile",
+        "alligator lizard"
+    ],
+    "triceratops": [],
+    "worm snake": [
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "kingsnake",
+        "garter snake",
+        "water snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "ring-necked snake": [
+        "worm snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "kingsnake",
+        "garter snake",
+        "water snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "eastern hog-nosed snake": [
+        "worm snake",
+        "ring-necked snake",
+        "smooth green snake",
+        "kingsnake",
+        "garter snake",
+        "water snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "smooth green snake": [
+        "worm snake",
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "kingsnake",
+        "garter snake",
+        "water snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "kingsnake": [
+        "worm snake",
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "garter snake",
+        "water snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "garter snake": [
+        "worm snake",
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "kingsnake",
+        "water snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "water snake": [
+        "worm snake",
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "kingsnake",
+        "garter snake",
+        "vine snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "vine snake": [
+        "worm snake",
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "kingsnake",
+        "garter snake",
+        "water snake",
+        "night snake",
+        "boa constrictor",
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake"
+    ],
+    "night snake": [
+        "ring-necked snake",
+        "eastern hog-nosed snake",
+        "smooth green snake",
+        "kingsnake",
+        "garter snake",
+        "water snake",
+        "vine snake",
+        "boa constrictor",
+        "African rock python"
+    ],
+    "boa constrictor": [
+        "African rock python",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake",
+        "kingsnake",
+        "garter snake",
+        "vine snake"
+    ],
+    "African rock python": [
+        "boa constrictor",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake",
+        "kingsnake",
+        "night snake",
+        "vine snake"
+    ],
+    "Indian cobra": [
+        "green mamba",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake",
+        "sea snake",
+        "boa constrictor",
+        "African rock python",
+        "night snake",
+        "kingsnake"
+    ],
+    "green mamba": [
+        "Indian cobra",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake",
+        "sea snake",
+        "African rock python",
+        "boa constrictor",
+        "night snake",
+        "vine snake"
+    ],
+    "sea snake": [
+        "green mamba",
+        "Indian cobra",
+        "Saharan horned viper",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake",
+        "boa constrictor",
+        "African rock python",
+        "night snake",
+        "water snake"
+    ],
+    "Saharan horned viper": [
+        "Indian cobra",
+        "green mamba",
+        "eastern diamondback rattlesnake",
+        "sidewinder rattlesnake",
+        "sea snake",
+        "African rock python",
+        "boa constrictor",
+        "night snake",
+        "kingsnake"
+    ],
+    "eastern diamondback rattlesnake": [
+        "Saharan horned viper",
+        "sidewinder rattlesnake",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "boa constrictor",
+        "African rock python",
+        "night snake"
+    ],
+    "sidewinder rattlesnake": [
+        "eastern diamondback rattlesnake",
+        "Saharan horned viper",
+        "Indian cobra",
+        "green mamba",
+        "sea snake",
+        "boa constrictor",
+        "African rock python",
+        "night snake"
+    ],
+    "trilobite": [
+        "harvestman",
+        "scorpion",
+        "centipede",
+        "isopod",
+        "tick"
+    ],
+    "harvestman": [
+        "scorpion",
+        "tick",
+        "centipede",
+        "wolf spider",
+        "barn spider",
+        "European garden spider",
+        "southern black widow",
+        "tarantula",
+        "yellow garden spider"
+    ],
+    "scorpion": [
+        "harvestman",
+        "tick",
+        "centipede",
+        "wolf spider",
+        "barn spider",
+        "European garden spider",
+        "southern black widow",
+        "tarantula",
+        "yellow garden spider"
+    ],
+    "yellow garden spider": [
+        "barn spider",
+        "European garden spider",
+        "southern black widow",
+        "tarantula",
+        "wolf spider",
+        "harvestman",
+        "scorpion",
+        "tick",
+        "centipede"
+    ],
+    "barn spider": [
+        "yellow garden spider",
+        "European garden spider",
+        "southern black widow",
+        "tarantula",
+        "wolf spider",
+        "harvestman",
+        "scorpion",
+        "tick",
+        "centipede"
+    ],
+    "European garden spider": [
+        "yellow garden spider",
+        "barn spider",
+        "southern black widow",
+        "tarantula",
+        "wolf spider",
+        "harvestman",
+        "scorpion",
+        "tick",
+        "centipede"
+    ],
+    "southern black widow": [
+        "tarantula",
+        "wolf spider",
+        "barn spider",
+        "European garden spider",
+        "yellow garden spider",
+        "harvestman",
+        "scorpion",
+        "tick",
+        "centipede"
+    ],
+    "tarantula": [
+        "southern black widow",
+        "wolf spider",
+        "barn spider",
+        "European garden spider",
+        "yellow garden spider",
+        "harvestman",
+        "scorpion",
+        "tick",
+        "centipede"
+    ],
+    "wolf spider": [
+        "tarantula",
+        "southern black widow",
+        "barn spider",
+        "European garden spider",
+        "yellow garden spider",
+        "harvestman",
+        "scorpion",
+        "tick",
+        "centipede"
+    ],
+    "tick": [
+        "harvestman",
+        "scorpion",
+        "centipede",
+        "wolf spider",
+        "barn spider",
+        "European garden spider",
+        "southern black widow",
+        "tarantula",
+        "yellow garden spider"
+    ],
+    "centipede": [
+        "harvestman",
+        "scorpion",
+        "tick",
+        "wolf spider",
+        "barn spider",
+        "European garden spider",
+        "southern black widow",
+        "tarantula",
+        "yellow garden spider"
+    ],
+    "black grouse": [
+        "ptarmigan",
+        "ruffed grouse",
+        "prairie grouse",
+        "quail",
+        "partridge",
+        "chickadee",
+        "American robin",
+        "bulbul"
+    ],
+    "ptarmigan": [
+        "black grouse",
+        "ruffed grouse",
+        "prairie grouse",
+        "quail",
+        "partridge",
+        "rooster",
+        "hen"
+    ],
+    "ruffed grouse": [
+        "black grouse",
+        "ptarmigan",
+        "prairie grouse",
+        "quail",
+        "partridge"
+    ],
+    "prairie grouse": [
+        "black grouse",
+        "ptarmigan",
+        "ruffed grouse",
+        "quail",
+        "partridge"
+    ],
+    "peafowl": [
+        "african grey parrot",
+        "macaw",
+        "sulphur-crested cockatoo",
+        "hornbill",
+        "toucan"
+    ],
+    "quail": [
+        "partridge",
+        "black grouse",
+        "ptarmigan",
+        "ruffed grouse",
+        "prairie grouse"
+    ],
+    "partridge": [
+        "quail",
+        "black grouse",
+        "ptarmigan",
+        "ruffed grouse",
+        "prairie grouse"
+    ],
+    "african grey parrot": [
+        "macaw",
+        "sulphur-crested cockatoo",
+        "peafowl",
+        "lorikeet"
+    ],
+    "macaw": [
+        "african grey parrot",
+        "sulphur-crested cockatoo",
+        "peafowl",
+        "toucan",
+        "hornbill"
+    ],
+    "sulphur-crested cockatoo": [
+        "african grey parrot",
+        "macaw",
+        "peafowl"
+    ],
+    "lorikeet": [
+        "goldfinch",
+        "african grey parrot",
+        "macaw",
+        "sulphur-crested cockatoo"
+    ],
+    "coucal": [
+        "black grouse",
+        "ptarmigan"
+    ],
+    "bee eater": [
+        "kite (bird of prey)",
+        "bald eagle",
+        "vulture"
+    ],
+    "hornbill": [
+        "toucan",
+        "great grey owl",
+        "albatross"
+    ],
+    "hummingbird": [
+        "American dipper",
+        "jacamar"
+    ],
+    "jacamar": [
+        "toucan",
+        "bee eater"
+    ],
+    "toucan": [
+        "hornbill",
+        "jacamar",
+        "hummingbird"
+    ],
+    "duck": [
+        "goose",
+        "red-breasted merganser"
+    ],
+    "red-breasted merganser": [],
+    "goose": [
+        "duck"
+    ],
+    "black swan": [
+        "red-breasted merganser",
+        "goose",
+        "duck",
+        "king penguin",
+        "albatross"
+    ],
+    "tusker": [
+        "African bush elephant",
+        "Asian elephant",
+        "hippopotamus",
+        "wild boar",
+        "warthog"
+    ],
+    "echidna": [
+        "platypus",
+        "armadillo",
+        "porcupine"
+    ],
+    "platypus": [
+        "echidna",
+        "otter",
+        "beaver"
+    ],
+    "wallaby": [
+        "koala",
+        "wombat"
+    ],
+    "koala": [
+        "wombat",
+        "sloth bear"
+    ],
+    "wombat": [
+        "koala",
+        "badger",
+        "marmot"
+    ],
+    "jellyfish": [
+        "sea anemone",
+        "coral reef"
+    ],
+    "sea anemone": [
+        "jellyfish",
+        "brain coral"
+    ],
+    "brain coral": [
+        "coral reef"
+    ],
+    "flatworm": [
+        "nematode"
+    ],
+    "nematode": [
+        "flatworm"
+    ],
+    "conch": [
+        "snail",
+        "slug",
+        "sea slug",
+        "chiton",
+        "chambered nautilus"
+    ],
+    "snail": [
+        "conch",
+        "slug",
+        "sea slug",
+        "chiton"
+    ],
+    "slug": [
+        "snail",
+        "sea slug",
+        "conch",
+        "chiton"
+    ],
+    "sea slug": [
+        "slug",
+        "snail",
+        "conch",
+        "chiton"
+    ],
+    "chiton": [
+        "conch",
+        "snail",
+        "slug",
+        "sea slug",
+        "chambered nautilus"
+    ],
+    "chambered nautilus": [
+        "conch",
+        "chiton",
+        "snail"
+    ],
+    "Dungeness crab": [
+        "rock crab",
+        "fiddler crab",
+        "red king crab",
+        "hermit crab"
+    ],
+    "rock crab": [
+        "Dungeness crab",
+        "fiddler crab",
+        "red king crab",
+        "hermit crab"
+    ],
+    "fiddler crab": [
+        "Dungeness crab",
+        "rock crab",
+        "red king crab",
+        "hermit crab",
+        "isopod"
+    ],
+    "red king crab": [
+        "Dungeness crab",
+        "rock crab",
+        "fiddler crab",
+        "hermit crab",
+        "isopod"
+    ],
+    "American lobster": [
+        "spiny lobster",
+        "crayfish",
+        "Dungeness crab",
+        "rock crab",
+        "fiddler crab"
+    ],
+    "spiny lobster": [
+        "American lobster",
+        "crayfish",
+        "fiddler crab",
+        "hermit crab"
+    ],
+    "crayfish": [
+        "American lobster",
+        "spiny lobster",
+        "Dungeness crab",
+        "rock crab"
+    ],
+    "hermit crab": [
+        "fiddler crab",
+        "red king crab",
+        "isopod",
+        "Dungeness crab",
+        "rock crab"
+    ],
+    "isopod": [
+        "fiddler crab",
+        "hermit crab"
+    ],
+    "white stork": [
+        "black stork",
+        "spoonbill",
+        "flamingo",
+        "little blue heron",
+        "great egret"
+    ],
+    "black stork": [
+        "white stork",
+        "spoonbill",
+        "flamingo",
+        "bittern bird",
+        "crane bird"
+    ],
+    "spoonbill": [
+        "white stork",
+        "black stork",
+        "flamingo",
+        "little blue heron"
+    ],
+    "flamingo": [
+        "white stork",
+        "spoonbill",
+        "little blue heron",
+        "great egret"
+    ],
+    "little blue heron": [
+        "great egret",
+        "bittern bird",
+        "crane bird",
+        "flamingo",
+        "white stork"
+    ],
+    "great egret": [
+        "little blue heron",
+        "bittern bird",
+        "crane bird",
+        "white stork",
+        "black stork"
+    ],
+    "bittern bird": [
+        "great egret",
+        "little blue heron",
+        "crane bird",
+        "limpkin"
+    ],
+    "crane bird": [
+        "bittern bird",
+        "great egret",
+        "limpkin",
+        "white stork",
+        "black stork"
+    ],
+    "limpkin": [
+        "crane bird",
+        "bittern bird",
+        "common gallinule",
+        "American coot",
+        "ruddy turnstone"
+    ],
+    "common gallinule": [
+        "American coot",
+        "limpkin",
+        "crane bird",
+        "bittern bird",
+        "ruddy turnstone"
+    ],
+    "American coot": [
+        "common gallinule",
+        "limpkin",
+        "crane bird",
+        "bustard",
+        "ruddy turnstone"
+    ],
+    "bustard": [
+        "ruddy turnstone",
+        "dunlin",
+        "common redshank",
+        "dowitcher",
+        "oystercatcher"
+    ],
+    "ruddy turnstone": [
+        "dunlin",
+        "common redshank",
+        "dowitcher",
+        "oystercatcher",
+        "American coot"
+    ],
+    "dunlin": [
+        "ruddy turnstone",
+        "common redshank",
+        "dowitcher",
+        "oystercatcher",
+        "little blue heron",
+        "great egret",
+        "bittern bird",
+        "crane bird",
+        "limpkin"
+    ],
+    "common redshank": [
+        "dunlin",
+        "dowitcher",
+        "ruddy turnstone",
+        "oystercatcher",
+        "little blue heron",
+        "great egret",
+        "bittern bird",
+        "crane bird",
+        "limpkin"
+    ],
+    "dowitcher": [
+        "dunlin",
+        "common redshank",
+        "ruddy turnstone",
+        "oystercatcher",
+        "little blue heron",
+        "great egret",
+        "bittern bird",
+        "crane bird",
+        "limpkin"
+    ],
+    "oystercatcher": [
+        "dunlin",
+        "common redshank",
+        "dowitcher",
+        "ruddy turnstone",
+        "little blue heron",
+        "great egret",
+        "bittern bird",
+        "crane bird",
+        "limpkin"
+    ],
+    "pelican": [
+        "albatross",
+        "king penguin",
+        "white stork",
+        "black stork",
+        "spoonbill",
+        "flamingo",
+        "great egret",
+        "bittern bird",
+        "crane bird"
+    ],
+    "king penguin": [
+        "albatross",
+        "pelican",
+        "white stork",
+        "black stork",
+        "spoonbill",
+        "flamingo",
+        "little blue heron",
+        "great egret"
+    ],
+    "albatross": [
+        "king penguin",
+        "pelican",
+        "white stork",
+        "black stork",
+        "spoonbill",
+        "flamingo",
+        "great egret",
+        "bittern bird",
+        "crane bird"
+    ],
+    "grey whale": [
+        "killer whale",
+        "dugong"
+    ],
+    "killer whale": [
+        "grey whale",
+        "dugong"
+    ],
+    "dugong": [
+        "grey whale",
+        "killer whale",
+        "sea lion"
+    ],
+    "sea lion": [
+        "grey whale",
+        "killer whale",
+        "dugong"
+    ],
+    "Chihuahua": [
+        "Japanese Chin",
+        "Maltese",
+        "Pekingese",
+        "Shih Tzu",
+        "toy terrier",
+        "Papillon",
+        "King Charles Spaniel"
+    ],
+    "Japanese Chin": [
+        "Chihuahua",
+        "Maltese",
+        "Pekingese",
+        "Shih Tzu",
+        "toy terrier",
+        "Papillon",
+        "King Charles Spaniel"
+    ],
+    "Maltese": [
+        "Chihuahua",
+        "Japanese Chin",
+        "Pekingese",
+        "Shih Tzu",
+        "toy terrier",
+        "Papillon",
+        "King Charles Spaniel"
+    ],
+    "Pekingese": [
+        "Chihuahua",
+        "Japanese Chin",
+        "Maltese",
+        "Shih Tzu",
+        "toy terrier",
+        "Papillon",
+        "King Charles Spaniel"
+    ],
+    "Shih Tzu": [
+        "Chihuahua",
+        "Japanese Chin",
+        "Maltese",
+        "Pekingese",
+        "toy terrier",
+        "Papillon",
+        "King Charles Spaniel"
+    ],
+    "King Charles Spaniel": [
+        "Chihuahua",
+        "Japanese Chin",
+        "Maltese",
+        "Pekingese",
+        "Shih Tzu",
+        "toy terrier",
+        "Papillon"
+    ],
+    "Papillon": [
+        "Chihuahua",
+        "Japanese Chin",
+        "Maltese",
+        "Pekingese",
+        "Shih Tzu",
+        "toy terrier",
+        "King Charles Spaniel"
+    ],
+    "toy terrier": [
+        "Chihuahua",
+        "Japanese Chin",
+        "Maltese",
+        "Pekingese",
+        "Shih Tzu",
+        "Papillon",
+        "King Charles Spaniel"
+    ],
+    "Rhodesian Ridgeback": [
+        "Afghan Hound",
+        "Basset Hound",
+        "Beagle",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "English foxhound",
+        "Redbone Coonhound"
+    ],
+    "Afghan Hound": [
+        "Irish Wolfhound",
+        "Italian Greyhound",
+        "Whippet",
+        "Ibizan Hound"
+    ],
+    "Basset Hound": [
+        "Beagle",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "Redbone Coonhound",
+        "English foxhound"
+    ],
+    "Beagle": [
+        "Basset Hound",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "Redbone Coonhound",
+        "English foxhound"
+    ],
+    "Bloodhound": [
+        "Basset Hound",
+        "Beagle",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "Redbone Coonhound",
+        "English foxhound"
+    ],
+    "Bluetick Coonhound": [
+        "Basset Hound",
+        "Beagle",
+        "Bloodhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "Redbone Coonhound",
+        "English foxhound"
+    ],
+    "Black and Tan Coonhound": [
+        "Basset Hound",
+        "Beagle",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Treeing Walker Coonhound",
+        "Redbone Coonhound",
+        "English foxhound"
+    ],
+    "Treeing Walker Coonhound": [
+        "Basset Hound",
+        "Beagle",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Redbone Coonhound",
+        "English foxhound"
+    ],
+    "English foxhound": [
+        "Basset Hound",
+        "Beagle",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "Redbone Coonhound"
+    ],
+    "Redbone Coonhound": [
+        "Basset Hound",
+        "Beagle",
+        "Bloodhound",
+        "Bluetick Coonhound",
+        "Black and Tan Coonhound",
+        "Treeing Walker Coonhound",
+        "English foxhound"
+    ],
+    "borzoi": [
+        "Afghan Hound",
+        "Irish Wolfhound",
+        "Italian Greyhound",
+        "Whippet",
+        "Ibizan Hound"
+    ],
+    "Irish Wolfhound": [
+        "Scottish Deerhound",
+        "Saluki",
+        "borzoi",
+        "Afghan Hound",
+        "Weimaraner"
+    ],
+    "Italian Greyhound": [
+        "Whippet",
+        "Ibizan Hound",
+        "Chihuahua",
+        "toy terrier",
+        "Maltese"
+    ],
+    "Whippet": [
+        "Italian Greyhound",
+        "Ibizan Hound",
+        "Saluki",
+        "Scottish Deerhound",
+        "Norwegian Elkhound"
+    ],
+    "Ibizan Hound": [
+        "Whippet",
+        "Italian Greyhound",
+        "Saluki",
+        "Norwegian Elkhound"
+    ],
+    "Norwegian Elkhound": [
+        "Samoyed",
+        "Keeshond",
+        "Siberian Husky",
+        "Alaskan Malamute"
+    ],
+    "Otterhound": [
+        "Irish Wolfhound",
+        "Bloodhound",
+        "Black and Tan Coonhound",
+        "Beagle",
+        "Basset Hound",
+        "English foxhound"
+    ],
+    "Saluki": [
+        "Irish Wolfhound",
+        "Scottish Deerhound",
+        "Afghan Hound",
+        "borzoi",
+        "Whippet",
+        "Ibizan Hound"
+    ],
+    "Scottish Deerhound": [
+        "Irish Wolfhound",
+        "Saluki",
+        "Weimaraner",
+        "borzoi",
+        "Whippet"
+    ],
+    "Weimaraner": [
+        "German Shorthaired Pointer",
+        "Vizsla",
+        "Irish Setter",
+        "Standard Poodle",
+        "Dobermann",
+        "Staffordshire Bull Terrier"
+    ],
+    "Staffordshire Bull Terrier": [
+        "American Staffordshire Terrier",
+        "Boxer",
+        "Boston Terrier",
+        "Weimaraner"
+    ],
+    "American Staffordshire Terrier": [
+        "Staffordshire Bull Terrier",
+        "Bullmastiff",
+        "Boxer",
+        "Boston Terrier"
+    ],
+    "Bedlington Terrier": [
+        "Kerry Blue Terrier",
+        "Soft-coated Wheaten Terrier",
+        "Scottish Terrier",
+        "Tibetan Terrier"
+    ],
+    "Border Terrier": [
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Lakeland Terrier",
+        "Wire Fox Terrier"
+    ],
+    "Kerry Blue Terrier": [
+        "Bedlington Terrier",
+        "Soft-coated Wheaten Terrier",
+        "Irish Terrier",
+        "Australian Terrier"
+    ],
+    "Irish Terrier": [
+        "Kerry Blue Terrier",
+        "Border Terrier"
+    ],
+    "Norfolk Terrier": [
+        "Norwich Terrier",
+        "Border Terrier",
+        "Lakeland Terrier",
+        "Sealyham Terrier"
+    ],
+    "Norwich Terrier": [
+        "Norfolk Terrier",
+        "Border Terrier",
+        "Lakeland Terrier",
+        "Airedale Terrier"
+    ],
+    "Yorkshire Terrier": [
+        "Toy Poodle",
+        "Chihuahua",
+        "Maltese"
+    ],
+    "Wire Fox Terrier": [
+        "Border Terrier"
+    ],
+    "Lakeland Terrier": [
+        "Border Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Wire Fox Terrier"
+    ],
+    "Sealyham Terrier": [
+        "Airedale Terrier",
+        "Cairn Terrier",
+        "Australian Terrier",
+        "Dandie Dinmont Terrier",
+        "Scottish Terrier",
+        "Bedlington Terrier",
+        "Border Terrier",
+        "Kerry Blue Terrier",
+        "Irish Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Airedale Terrier": [
+        "Sealyham Terrier",
+        "Cairn Terrier",
+        "Australian Terrier",
+        "Dandie Dinmont Terrier",
+        "Scottish Terrier",
+        "Bedlington Terrier",
+        "Border Terrier",
+        "Kerry Blue Terrier",
+        "Irish Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Cairn Terrier": [
+        "Sealyham Terrier",
+        "Airedale Terrier",
+        "Australian Terrier",
+        "Dandie Dinmont Terrier",
+        "Scottish Terrier",
+        "Bedlington Terrier",
+        "Border Terrier",
+        "Kerry Blue Terrier",
+        "Irish Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Australian Terrier": [
+        "Sealyham Terrier",
+        "Airedale Terrier",
+        "Cairn Terrier",
+        "Dandie Dinmont Terrier",
+        "Scottish Terrier",
+        "Bedlington Terrier",
+        "Border Terrier",
+        "Kerry Blue Terrier",
+        "Irish Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Dandie Dinmont Terrier": [
+        "Sealyham Terrier",
+        "Airedale Terrier",
+        "Cairn Terrier",
+        "Australian Terrier",
+        "Scottish Terrier",
+        "Bedlington Terrier",
+        "Border Terrier",
+        "Kerry Blue Terrier",
+        "Irish Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Boston Terrier": [
+        "Miniature Schnauzer",
+        "Giant Schnauzer",
+        "Standard Schnauzer",
+        "French Bulldog",
+        "Boxer",
+        "Chihuahua",
+        "Japanese Chin",
+        "Maltese",
+        "Pekingese",
+        "Shih Tzu",
+        "King Charles Spaniel",
+        "Papillon",
+        "toy terrier"
+    ],
+    "Miniature Schnauzer": [
+        "Giant Schnauzer",
+        "Standard Schnauzer",
+        "Boston Terrier",
+        "Airedale Terrier",
+        "Scottish Terrier",
+        "Cairn Terrier",
+        "Australian Terrier",
+        "Sealyham Terrier",
+        "Dandie Dinmont Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Giant Schnauzer": [
+        "Miniature Schnauzer",
+        "Standard Schnauzer",
+        "Boston Terrier",
+        "Airedale Terrier",
+        "Rottweiler",
+        "Dobermann",
+        "German Shepherd Dog",
+        "Boxer",
+        "Bullmastiff",
+        "Tibetan Mastiff"
+    ],
+    "Standard Schnauzer": [
+        "Miniature Schnauzer",
+        "Giant Schnauzer",
+        "Boston Terrier",
+        "Airedale Terrier",
+        "Scottish Terrier",
+        "Cairn Terrier",
+        "Australian Terrier",
+        "Sealyham Terrier",
+        "Dandie Dinmont Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Scottish Terrier": [
+        "Sealyham Terrier",
+        "Airedale Terrier",
+        "Cairn Terrier",
+        "Australian Terrier",
+        "Dandie Dinmont Terrier",
+        "Bedlington Terrier",
+        "Border Terrier",
+        "Kerry Blue Terrier",
+        "Irish Terrier",
+        "Norfolk Terrier",
+        "Norwich Terrier",
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Lakeland Terrier"
+    ],
+    "Tibetan Terrier": [
+        "Lhasa Apso",
+        "Shih Tzu",
+        "Pekingese",
+        "King Charles Spaniel",
+        "Maltese"
+    ],
+    "Australian Silky Terrier": [
+        "Yorkshire Terrier",
+        "Wire Fox Terrier",
+        "Border Terrier",
+        "Cairn Terrier",
+        "Australian Terrier"
+    ],
+    "Soft-coated Wheaten Terrier": [
+        "West Highland White Terrier",
+        "Scottish Terrier",
+        "Irish Terrier",
+        "Kerry Blue Terrier",
+        "American Staffordshire Terrier"
+    ],
+    "West Highland White Terrier": [
+        "Scottish Terrier",
+        "Cairn Terrier",
+        "Norwich Terrier",
+        "Norfolk Terrier",
+        "Soft-coated Wheaten Terrier",
+        "Sealyham Terrier"
+    ],
+    "Lhasa Apso": [
+        "Tibetan Terrier",
+        "Shih Tzu",
+        "Pekingese",
+        "Maltese",
+        "Japanese Chin"
+    ],
+    "Flat-Coated Retriever": [
+        "Golden Retriever",
+        "Labrador Retriever",
+        "Chesapeake Bay Retriever",
+        "Curly-coated Retriever",
+        "German Shorthaired Pointer"
+    ],
+    "Curly-coated Retriever": [
+        "Flat-Coated Retriever",
+        "Chesapeake Bay Retriever",
+        "Golden Retriever",
+        "Labrador Retriever"
+    ],
+    "Golden Retriever": [
+        "Flat-Coated Retriever",
+        "Labrador Retriever",
+        "Chesapeake Bay Retriever",
+        "Curly-coated Retriever"
+    ],
+    "Labrador Retriever": [
+        "Golden Retriever",
+        "Flat-Coated Retriever",
+        "Chesapeake Bay Retriever",
+        "Curly-coated Retriever",
+        "German Shorthaired Pointer",
+        "Brittany dog"
+    ],
+    "Chesapeake Bay Retriever": [
+        "Labrador Retriever",
+        "Golden Retriever",
+        "Flat-Coated Retriever",
+        "Curly-coated Retriever",
+        "Irish Water Spaniel"
+    ],
+    "German Shorthaired Pointer": [
+        "Vizsla",
+        "English Setter",
+        "Irish Setter",
+        "Gordon Setter",
+        "Brittany dog",
+        "Weimaraner"
+    ],
+    "Vizsla": [
+        "German Shorthaired Pointer",
+        "Weimaraner",
+        "English Setter",
+        "Redbone Coonhound",
+        "Brittany dog"
+    ],
+    "English Setter": [
+        "Irish Setter",
+        "Gordon Setter",
+        "German Shorthaired Pointer",
+        "Vizsla",
+        "Clumber Spaniel",
+        "English Springer Spaniel",
+        "Welsh Springer Spaniel",
+        "Cocker Spaniel"
+    ],
+    "Irish Setter": [
+        "English Setter",
+        "Gordon Setter",
+        "Vizsla",
+        "German Shorthaired Pointer",
+        "Brittany dog"
+    ],
+    "Gordon Setter": [
+        "English Setter",
+        "Irish Setter",
+        "Vizsla",
+        "German Shorthaired Pointer",
+        "Clumber Spaniel",
+        "Brittany dog"
+    ],
+    "Brittany dog": [
+        "German Shorthaired Pointer",
+        "Vizsla",
+        "English Setter",
+        "Irish Setter",
+        "Gordon Setter",
+        "Weimaraner"
+    ],
+    "Clumber Spaniel": [
+        "English Springer Spaniel",
+        "Welsh Springer Spaniel",
+        "Cocker Spaniel",
+        "English Setter",
+        "Gordon Setter",
+        "Sussex Spaniel"
+    ],
+    "English Springer Spaniel": [
+        "Welsh Springer Spaniel",
+        "Clumber Spaniel",
+        "Cocker Spaniel",
+        "English Setter",
+        "Irish Setter",
+        "Brittany dog"
+    ],
+    "Welsh Springer Spaniel": [
+        "English Springer Spaniel",
+        "Clumber Spaniel",
+        "Cocker Spaniel",
+        "English Setter",
+        "Gordon Setter",
+        "Brittany dog"
+    ],
+    "Cocker Spaniel": [
+        "English Springer Spaniel",
+        "Welsh Springer Spaniel",
+        "Clumber Spaniel",
+        "English Setter",
+        "Irish Setter"
+    ],
+    "Sussex Spaniel": [
+        "Clumber Spaniel",
+        "English Springer Spaniel",
+        "Welsh Springer Spaniel",
+        "Cocker Spaniel",
+        "Irish Water Spaniel"
+    ],
+    "Irish Water Spaniel": [
+        "Sussex Spaniel",
+        "Clumber Spaniel",
+        "English Springer Spaniel",
+        "Welsh Springer Spaniel",
+        "Cocker Spaniel"
+    ],
+    "Kuvasz": [
+        "Komondor",
+        "Old English Sheepdog",
+        "Briard",
+        "Schipperke",
+        "Groenendael dog"
+    ],
+    "Schipperke": [
+        "Kuvasz",
+        "Komondor",
+        "Old English Sheepdog",
+        "Briard",
+        "Malinois"
+    ],
+    "Groenendael dog": [
+        "Malinois",
+        "German Shepherd Dog",
+        "Dobermann",
+        "Rottweiler"
+    ],
+    "Malinois": [
+        "Groenendael dog",
+        "German Shepherd Dog",
+        "Dobermann",
+        "Rottweiler"
+    ],
+    "Briard": [
+        "Kuvasz",
+        "Komondor",
+        "Old English Sheepdog",
+        "Schipperke",
+        "Australian Kelpie"
+    ],
+    "Australian Kelpie": [
+        "Briard",
+        "Kuvasz",
+        "Komondor",
+        "Old English Sheepdog",
+        "Border Collie"
+    ],
+    "Komondor": [
+        "Kuvasz",
+        "Briard",
+        "Old English Sheepdog",
+        "Schipperke",
+        "Australian Kelpie"
+    ],
+    "Old English Sheepdog": [
+        "Kuvasz",
+        "Briard",
+        "Komondor",
+        "Australian Kelpie"
+    ],
+    "Shetland Sheepdog": [
+        "collie",
+        "Border Collie",
+        "German Shepherd Dog",
+        "Australian Kelpie",
+        "Old English Sheepdog"
+    ],
+    "collie": [
+        "Shetland Sheepdog",
+        "Border Collie",
+        "German Shepherd Dog",
+        "Australian Kelpie",
+        "Old English Sheepdog"
+    ],
+    "Border Collie": [
+        "Shetland Sheepdog",
+        "collie",
+        "German Shepherd Dog",
+        "Australian Kelpie",
+        "Old English Sheepdog"
+    ],
+    "Bouvier des Flandres dog": [
+        "Bernese Mountain Dog",
+        "Greater Swiss Mountain Dog",
+        "Rottweiler",
+        "Dobermann",
+        "Boxer"
+    ],
+    "Rottweiler": [
+        "Bouvier des Flandres dog",
+        "Dobermann",
+        "Miniature Pinscher",
+        "German Shepherd Dog",
+        "Boxer"
+    ],
+    "German Shepherd Dog": [
+        "Rottweiler",
+        "Dobermann",
+        "Shetland Sheepdog",
+        "collie",
+        "Border Collie"
+    ],
+    "Dobermann": [
+        "Rottweiler",
+        "German Shepherd Dog",
+        "Miniature Pinscher",
+        "Bouvier des Flandres dog",
+        "Boxer"
+    ],
+    "Miniature Pinscher": [
+        "Dobermann",
+        "Rottweiler",
+        "German Shepherd Dog",
+        "Chihuahua",
+        "toy terrier"
+    ],
+    "Greater Swiss Mountain Dog": [
+        "Bernese Mountain Dog",
+        "Bouvier des Flandres dog",
+        "Newfoundland dog",
+        "Appenzeller Sennenhund"
+    ],
+    "Bernese Mountain Dog": [
+        "Greater Swiss Mountain Dog",
+        "Bouvier des Flandres dog",
+        "Newfoundland dog",
+        "Appenzeller Sennenhund"
+    ],
+    "Appenzeller Sennenhund": [
+        "Greater Swiss Mountain Dog",
+        "Bernese Mountain Dog",
+        "Entlebucher Sennenhund"
+    ],
+    "Entlebucher Sennenhund": [
+        "Greater Swiss Mountain Dog",
+        "Bernese Mountain Dog",
+        "Appenzeller Sennenhund"
+    ],
+    "Boxer": [
+        "Bullmastiff",
+        "Great Dane",
+        "Staffordshire Bull Terrier",
+        "American Staffordshire Terrier"
+    ],
+    "Bullmastiff": [
+        "Boxer",
+        "Great Dane",
+        "Tibetan Mastiff",
+        "Rottweiler"
+    ],
+    "Tibetan Mastiff": [
+        "Bullmastiff",
+        "Great Dane",
+        "St. Bernard",
+        "Komondor"
+    ],
+    "French Bulldog": [
+        "Boston Terrier",
+        "Chihuahua",
+        "Japanese Chin"
+    ],
+    "Great Dane": [
+        "Boxer",
+        "Bullmastiff",
+        "Irish Wolfhound",
+        "St. Bernard"
+    ],
+    "St. Bernard": [
+        "Great Dane",
+        "Newfoundland dog",
+        "Tibetan Mastiff",
+        "Bernese Mountain Dog"
+    ],
+    "husky": [
+        "Alaskan Malamute",
+        "Siberian Husky",
+        "Samoyed"
+    ],
+    "Alaskan Malamute": [
+        "husky",
+        "Siberian Husky"
+    ],
+    "Siberian Husky": [
+        "Alaskan Malamute",
+        "husky",
+        "Samoyed",
+        "Chesapeake Bay Retriever",
+        "German Shorthaired Pointer"
+    ],
+    "Dalmatian": [
+        "Boxer",
+        "Great Dane",
+        "English Setter",
+        "Australian Kelpie",
+        "Border Collie"
+    ],
+    "Affenpinscher": [
+        "Miniature Schnauzer",
+        "Wire Fox Terrier",
+        "Airedale Terrier",
+        "Cairn Terrier",
+        "Australian Silky Terrier"
+    ],
+    "Basenji": [
+        "Japanese Chin",
+        "Pekingese",
+        "Maltese",
+        "Norwegian Elkhound"
+    ],
+    "pug": [
+        "French Bulldog",
+        "Boston Terrier",
+        "Pekingese",
+        "Shih Tzu"
+    ],
+    "Leonberger": [
+        "Newfoundland dog",
+        "Greater Swiss Mountain Dog",
+        "Bernese Mountain Dog"
+    ],
+    "Newfoundland dog": [
+        "Leonberger",
+        "Great Pyrenees dog",
+        "Kuvasz"
+    ],
+    "Great Pyrenees dog": [
+        "Newfoundland dog",
+        "Leonberger",
+        "Kuvasz",
+        "Briard"
+    ],
+    "Samoyed": [
+        "Siberian Husky",
+        "Alaskan Malamute",
+        "Pomeranian",
+        "Keeshond"
+    ],
+    "Pomeranian": [
+        "Samoyed",
+        "Keeshond",
+        "Chihuahua",
+        "Papillon"
+    ],
+    "Chow Chow": [
+        "Keeshond",
+        "Pomeranian",
+        "Samoyed",
+        "Alaskan Malamute",
+        "Siberian Husky",
+        "Norwegian Elkhound"
+    ],
+    "Keeshond": [
+        "Chow Chow",
+        "Pomeranian",
+        "Samoyed",
+        "Norwegian Elkhound"
+    ],
+    "brussels griffon": [
+        "French Bulldog",
+        "Boston Terrier",
+        "Shih Tzu",
+        "Pekingese"
+    ],
+    "Pembroke Welsh Corgi": [
+        "Cardigan Welsh Corgi",
+        "Border Collie",
+        "Shetland Sheepdog"
+    ],
+    "Cardigan Welsh Corgi": [
+        "Pembroke Welsh Corgi",
+        "Border Collie",
+        "Shetland Sheepdog"
+    ],
+    "Toy Poodle": [
+        "Miniature Poodle",
+        "Standard Poodle",
+        "Maltese"
+    ],
+    "Miniature Poodle": [
+        "Toy Poodle",
+        "Standard Poodle",
+        "Miniature Schnauzer",
+        "Cairn Terrier"
+    ],
+    "Standard Poodle": [
+        "Toy Poodle",
+        "Miniature Poodle",
+        "German Shepherd Dog",
+        "Labrador Retriever",
+        "Golden Retriever"
+    ],
+    "Mexican hairless dog (xoloitzcuintli)": [
+        "Italian Greyhound",
+        "Whippet",
+        "Afghan Hound"
+    ],
+    "grey wolf": [
+        "Alaskan tundra wolf",
+        "red wolf or maned wolf",
+        "coyote",
+        "dingo",
+        "dhole",
+        "African wild dog"
+    ],
+    "Alaskan tundra wolf": [
+        "grey wolf",
+        "Arctic fox",
+        "polar bear",
+        "red fox",
+        "coyote"
+    ],
+    "red wolf or maned wolf": [
+        "grey wolf",
+        "coyote",
+        "dingo",
+        "African wild dog",
+        "hyena"
+    ],
+    "coyote": [
+        "grey wolf",
+        "red wolf or maned wolf",
+        "dingo",
+        "dhole"
+    ],
+    "dingo": [
+        "coyote",
+        "grey wolf",
+        "red wolf or maned wolf",
+        "African wild dog",
+        "Australian Kelpie"
+    ],
+    "dhole": [
+        "African wild dog",
+        "dingo",
+        "coyote",
+        "grey wolf",
+        "hyena"
+    ],
+    "African wild dog": [
+        "dhole",
+        "dingo",
+        "hyena",
+        "coyote",
+        "grey wolf"
+    ],
+    "hyena": [
+        "dhole",
+        "African wild dog",
+        "red fox",
+        "Arctic fox",
+        "grey wolf"
+    ],
+    "red fox": [
+        "Arctic fox",
+        "kit fox",
+        "grey fox",
+        "coyote",
+        "Alaskan tundra wolf"
+    ],
+    "kit fox": [
+        "red fox",
+        "Arctic fox",
+        "grey fox",
+        "coyote"
+    ],
+    "Arctic fox": [
+        "red fox",
+        "kit fox",
+        "Alaskan tundra wolf",
+        "polar bear",
+        "grey fox"
+    ],
+    "grey fox": [
+        "red fox",
+        "coyote",
+        "dingo",
+        "kit fox",
+        "Alaskan tundra wolf",
+        "red wolf or maned wolf"
+    ],
+    "tabby cat": [
+        "tiger cat",
+        "Persian cat",
+        "Siamese cat",
+        "Egyptian Mau",
+        "cougar",
+        "lynx"
+    ],
+    "tiger cat": [
+        "tabby cat",
+        "Persian cat",
+        "Siamese cat",
+        "Egyptian Mau",
+        "leopard",
+        "snow leopard",
+        "cougar",
+        "lynx"
+    ],
+    "Persian cat": [
+        "tabby cat",
+        "tiger cat",
+        "Siamese cat",
+        "Egyptian Mau"
+    ],
+    "Siamese cat": [
+        "tabby cat",
+        "tiger cat",
+        "Persian cat",
+        "Egyptian Mau"
+    ],
+    "Egyptian Mau": [
+        "tabby cat",
+        "tiger cat",
+        "Persian cat",
+        "Siamese cat",
+        "cheetah",
+        "leopard",
+        "cougar"
+    ],
+    "cougar": [
+        "lynx",
+        "leopard",
+        "snow leopard",
+        "jaguar",
+        "lion",
+        "tiger"
+    ],
+    "lynx": [
+        "cougar",
+        "leopard",
+        "snow leopard",
+        "jaguar",
+        "tiger"
+    ],
+    "leopard": [
+        "snow leopard",
+        "jaguar",
+        "cougar",
+        "cheetah",
+        "tiger",
+        "lion"
+    ],
+    "snow leopard": [
+        "leopard",
+        "jaguar",
+        "cougar",
+        "lynx",
+        "tiger",
+        "lion"
+    ],
+    "jaguar": [
+        "lion",
+        "tiger",
+        "cheetah",
+        "leopard",
+        "snow leopard",
+        "cougar",
+        "lynx"
+    ],
+    "lion": [
+        "tiger",
+        "jaguar",
+        "cheetah",
+        "leopard",
+        "snow leopard",
+        "cougar",
+        "lynx"
+    ],
+    "tiger": [
+        "jaguar",
+        "lion",
+        "cheetah",
+        "leopard",
+        "snow leopard",
+        "cougar",
+        "lynx"
+    ],
+    "cheetah": [
+        "jaguar",
+        "lion",
+        "tiger",
+        "leopard",
+        "snow leopard",
+        "cougar",
+        "lynx"
+    ],
+    "brown bear": [
+        "American black bear",
+        "polar bear",
+        "sloth bear",
+        "coyote",
+        "red fox"
+    ],
+    "American black bear": [
+        "brown bear",
+        "polar bear",
+        "sloth bear",
+        "coyote",
+        "red fox"
+    ],
+    "polar bear": [
+        "brown bear",
+        "American black bear",
+        "sloth bear",
+        "coyote",
+        "red fox"
+    ],
+    "sloth bear": [
+        "brown bear",
+        "American black bear",
+        "polar bear",
+        "coyote",
+        "red fox"
+    ],
+    "mongoose": [
+        "meerkat",
+        "weasel",
+        "mink",
+        "wombat",
+        "badger",
+        "otter"
+    ],
+    "meerkat": [
+        "mongoose",
+        "weasel",
+        "mink",
+        "wombat",
+        "badger",
+        "otter"
+    ],
+    "tiger beetle": [
+        "ladybug",
+        "ground beetle",
+        "longhorn beetle",
+        "leaf beetle",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil"
+    ],
+    "ladybug": [
+        "tiger beetle",
+        "ground beetle",
+        "longhorn beetle",
+        "leaf beetle",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil",
+        "fly",
+        "bee"
+    ],
+    "ground beetle": [
+        "tiger beetle",
+        "ladybug",
+        "longhorn beetle",
+        "leaf beetle",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil"
+    ],
+    "longhorn beetle": [
+        "tiger beetle",
+        "ladybug",
+        "ground beetle",
+        "leaf beetle",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil"
+    ],
+    "leaf beetle": [
+        "tiger beetle",
+        "ladybug",
+        "ground beetle",
+        "longhorn beetle",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil"
+    ],
+    "dung beetle": [
+        "tiger beetle",
+        "ladybug",
+        "ground beetle",
+        "longhorn beetle",
+        "leaf beetle",
+        "rhinoceros beetle",
+        "weevil"
+    ],
+    "rhinoceros beetle": [
+        "tiger beetle",
+        "ladybug",
+        "ground beetle",
+        "longhorn beetle",
+        "leaf beetle",
+        "dung beetle",
+        "weevil"
+    ],
+    "weevil": [
+        "tiger beetle",
+        "ladybug",
+        "ground beetle",
+        "longhorn beetle",
+        "leaf beetle",
+        "dung beetle",
+        "rhinoceros beetle"
+    ],
+    "fly": [
+        "bee",
+        "ladybug",
+        "tiger beetle",
+        "weevil",
+        "ant",
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "cockroach",
+        "praying mantis"
+    ],
+    "bee": [
+        "fly",
+        "ladybug",
+        "tiger beetle",
+        "ant",
+        "red admiral butterfly",
+        "ringlet butterfly",
+        "monarch butterfly",
+        "small white butterfly"
+    ],
+    "ant": [
+        "tiger beetle",
+        "ladybug",
+        "ground beetle",
+        "longhorn beetle",
+        "leaf beetle",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil",
+        "fly",
+        "bee"
+    ],
+    "grasshopper": [
+        "cricket insect",
+        "stick insect",
+        "cicada",
+        "leafhopper",
+        "praying mantis",
+        "dragonfly",
+        "lacewing",
+        "cockroach"
+    ],
+    "cricket insect": [
+        "grasshopper",
+        "stick insect",
+        "cicada",
+        "leafhopper",
+        "praying mantis",
+        "dragonfly",
+        "lacewing",
+        "cockroach"
+    ],
+    "stick insect": [
+        "grasshopper",
+        "cricket insect",
+        "cicada",
+        "leafhopper",
+        "praying mantis",
+        "dragonfly",
+        "lacewing",
+        "cockroach"
+    ],
+    "cockroach": [
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "cicada",
+        "leafhopper",
+        "praying mantis",
+        "dragonfly",
+        "lacewing"
+    ],
+    "praying mantis": [
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "cicada",
+        "leafhopper",
+        "dragonfly",
+        "lacewing",
+        "cockroach"
+    ],
+    "cicada": [
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "leafhopper",
+        "praying mantis",
+        "dragonfly",
+        "lacewing",
+        "cockroach"
+    ],
+    "leafhopper": [
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "cicada",
+        "praying mantis",
+        "dragonfly",
+        "lacewing",
+        "cockroach"
+    ],
+    "lacewing": [
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "cicada",
+        "leafhopper",
+        "praying mantis",
+        "dragonfly",
+        "cockroach"
+    ],
+    "dragonfly": [
+        "grasshopper",
+        "cricket insect",
+        "stick insect",
+        "cicada",
+        "leafhopper",
+        "praying mantis",
+        "lacewing",
+        "damselfly"
+    ],
+    "damselfly": [
+        "dragonfly",
+        "cicada",
+        "leafhopper",
+        "lacewing"
+    ],
+    "red admiral butterfly": [
+        "ringlet butterfly",
+        "monarch butterfly",
+        "small white butterfly",
+        "sulphur butterfly",
+        "gossamer-winged butterfly"
+    ],
+    "ringlet butterfly": [
+        "red admiral butterfly",
+        "monarch butterfly",
+        "small white butterfly",
+        "sulphur butterfly",
+        "gossamer-winged butterfly"
+    ],
+    "monarch butterfly": [
+        "red admiral butterfly",
+        "ringlet butterfly",
+        "small white butterfly",
+        "sulphur butterfly",
+        "gossamer-winged butterfly"
+    ],
+    "small white butterfly": [
+        "red admiral butterfly",
+        "ringlet butterfly",
+        "monarch butterfly",
+        "sulphur butterfly",
+        "gossamer-winged butterfly"
+    ],
+    "sulphur butterfly": [
+        "red admiral butterfly",
+        "ringlet butterfly",
+        "monarch butterfly",
+        "small white butterfly",
+        "gossamer-winged butterfly"
+    ],
+    "gossamer-winged butterfly": [
+        "red admiral butterfly",
+        "ringlet butterfly",
+        "monarch butterfly",
+        "small white butterfly",
+        "sulphur butterfly"
+    ],
+    "starfish": [
+        "sea urchin",
+        "sea cucumber",
+        "jellyfish",
+        "sea anemone",
+        "brain coral"
+    ],
+    "sea urchin": [
+        "starfish",
+        "sea cucumber",
+        "jellyfish",
+        "sea anemone",
+        "brain coral"
+    ],
+    "sea cucumber": [
+        "starfish",
+        "sea urchin",
+        "jellyfish",
+        "sea anemone",
+        "brain coral"
+    ],
+    "cottontail rabbit": [
+        "hare",
+        "Angora rabbit",
+        "guinea pig",
+        "marmot",
+        "hamster"
+    ],
+    "hare": [
+        "cottontail rabbit",
+        "Angora rabbit",
+        "guinea pig",
+        "marmot",
+        "fox squirrel"
+    ],
+    "Angora rabbit": [
+        "cottontail rabbit",
+        "hare",
+        "guinea pig",
+        "hamster",
+        "marmot"
+    ],
+    "hamster": [
+        "guinea pig",
+        "marmot",
+        "cottontail rabbit",
+        "Angora rabbit",
+        "porcupine"
+    ],
+    "porcupine": [
+        "marmot",
+        "beaver",
+        "fox squirrel",
+        "guinea pig",
+        "hamster"
+    ],
+    "fox squirrel": [
+        "marmot",
+        "beaver",
+        "porcupine",
+        "guinea pig",
+        "hare"
+    ],
+    "marmot": [
+        "porcupine",
+        "beaver",
+        "fox squirrel",
+        "guinea pig",
+        "hamster"
+    ],
+    "beaver": [
+        "marmot",
+        "porcupine",
+        "fox squirrel",
+        "guinea pig"
+    ],
+    "guinea pig": [
+        "hamster",
+        "marmot",
+        "beaver",
+        "porcupine",
+        "cottontail rabbit"
+    ],
+    "common sorrel horse": [
+        "zebra",
+        "pig",
+        "wild boar",
+        "warthog",
+        "ox"
+    ],
+    "zebra": [],
+    "pig": [
+        "wild boar",
+        "warthog"
+    ],
+    "wild boar": [
+        "pig",
+        "warthog"
+    ],
+    "warthog": [
+        "pig",
+        "wild boar"
+    ],
+    "hippopotamus": [
+        "water buffalo",
+        "dugong"
+    ],
+    "ox": [
+        "bison",
+        "water buffalo"
+    ],
+    "water buffalo": [
+        "ox",
+        "bison"
+    ],
+    "bison": [
+        "ox"
+    ],
+    "ram (adult male sheep)": [
+        "bighorn sheep"
+    ],
+    "bighorn sheep": [
+        "ram (adult male sheep)"
+    ],
+    "Alpine ibex": [
+        "bighorn sheep",
+        "ram (adult male sheep)",
+        "mountain"
+    ],
+    "hartebeest": [
+        "impala (antelope)",
+        "gazelle",
+        "bighorn sheep",
+        "ram (adult male sheep)"
+    ],
+    "impala (antelope)": [
+        "hartebeest",
+        "gazelle",
+        "bighorn sheep",
+        "ram (adult male sheep)"
+    ],
+    "gazelle": [
+        "hartebeest",
+        "impala (antelope)",
+        "bighorn sheep",
+        "ram (adult male sheep)"
+    ],
+    "arabian camel": [
+        "llama",
+        "wild boar",
+        "pig"
+    ],
+    "llama": [
+        "arabian camel",
+        "bighorn sheep",
+        "ram (adult male sheep)"
+    ],
+    "weasel": [
+        "mink",
+        "European polecat",
+        "black-footed ferret"
+    ],
+    "mink": [
+        "weasel",
+        "European polecat",
+        "black-footed ferret"
+    ],
+    "European polecat": [
+        "weasel",
+        "mink",
+        "black-footed ferret"
+    ],
+    "black-footed ferret": [
+        "weasel",
+        "mink",
+        "European polecat"
+    ],
+    "otter": [
+        "weasel",
+        "mink",
+        "European polecat",
+        "black-footed ferret",
+        "badger"
+    ],
+    "skunk": [
+        "weasel",
+        "mink",
+        "European polecat",
+        "black-footed ferret",
+        "badger"
+    ],
+    "badger": [
+        "weasel",
+        "mink",
+        "European polecat",
+        "black-footed ferret",
+        "otter",
+        "skunk"
+    ],
+    "armadillo": [
+        "three-toed sloth",
+        "porcupine"
+    ],
+    "three-toed sloth": [
+        "armadillo",
+        "porcupine",
+        "tree frog"
+    ],
+    "orangutan": [
+        "gorilla",
+        "chimpanzee",
+        "gibbon",
+        "siamang"
+    ],
+    "gorilla": [
+        "orangutan",
+        "chimpanzee",
+        "gibbon",
+        "siamang",
+        "baboon"
+    ],
+    "chimpanzee": [
+        "orangutan",
+        "gorilla",
+        "gibbon",
+        "siamang"
+    ],
+    "gibbon": [
+        "orangutan",
+        "gorilla",
+        "chimpanzee",
+        "siamang",
+        "siamang"
+    ],
+    "siamang": [
+        "orangutan",
+        "gorilla",
+        "chimpanzee",
+        "gibbon",
+        "gibbon"
+    ],
+    "guenon": [
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "patas monkey": [
+        "guenon",
+        "baboon",
+        "macaque",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "baboon": [
+        "guenon",
+        "patas monkey",
+        "macaque",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "macaque": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "langur": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "black-and-white colobus": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey"
+    ],
+    "proboscis monkey": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "black-and-white colobus"
+    ],
+    "marmoset": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "white-headed capuchin",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "white-headed capuchin": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "marmoset",
+        "howler monkey",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "howler monkey": [
+        "guenon",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "marmoset",
+        "white-headed capuchin",
+        "proboscis monkey",
+        "black-and-white colobus"
+    ],
+    "titi monkey": [
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "black-and-white colobus",
+        "proboscis monkey",
+        "marmoset",
+        "white-headed capuchin",
+        "howler monkey",
+        "Geoffroy's spider monkey"
+    ],
+    "Geoffroy's spider monkey": [
+        "titi monkey",
+        "common squirrel monkey",
+        "howler monkey",
+        "white-headed capuchin",
+        "marmoset",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "black-and-white colobus"
+    ],
+    "common squirrel monkey": [
+        "titi monkey",
+        "Geoffroy's spider monkey",
+        "howler monkey",
+        "marmoset",
+        "white-headed capuchin",
+        "patas monkey",
+        "baboon",
+        "macaque",
+        "langur",
+        "black-and-white colobus"
+    ],
+    "ring-tailed lemur": [
+        "indri",
+        "patas monkey",
+        "marmoset",
+        "titi monkey",
+        "Geoffroy's spider monkey",
+        "common squirrel monkey"
+    ],
+    "indri": [
+        "ring-tailed lemur",
+        "patas monkey",
+        "marmoset",
+        "titi monkey",
+        "Geoffroy's spider monkey",
+        "common squirrel monkey",
+        "langur"
+    ],
+    "Asian elephant": [
+        "African bush elephant",
+        "hippopotamus",
+        "bison",
+        "ox",
+        "water buffalo",
+        "zebra",
+        "warthog"
+    ],
+    "African bush elephant": [
+        "Asian elephant",
+        "hippopotamus",
+        "bison",
+        "ox",
+        "water buffalo",
+        "zebra",
+        "warthog"
+    ],
+    "red panda": [
+        "giant panda",
+        "coyote",
+        "badger",
+        "weasel",
+        "mongoose"
+    ],
+    "giant panda": [
+        "red panda",
+        "brown bear",
+        "American black bear",
+        "polar bear",
+        "sloth bear",
+        "koala"
+    ],
+    "snoek fish": [
+        "eel",
+        "silver salmon",
+        "rock beauty fish",
+        "clownfish",
+        "sturgeon",
+        "gar fish",
+        "lionfish",
+        "pufferfish"
+    ],
+    "eel": [
+        "snoek fish",
+        "sturgeon",
+        "gar fish",
+        "electric ray"
+    ],
+    "silver salmon": [
+        "snoek fish",
+        "sturgeon"
+    ],
+    "rock beauty fish": [
+        "clownfish",
+        "lionfish",
+        "pufferfish"
+    ],
+    "clownfish": [
+        "rock beauty fish",
+        "lionfish",
+        "pufferfish"
+    ],
+    "sturgeon": [
+        "eel",
+        "gar fish",
+        "snoek fish"
+    ],
+    "gar fish": [
+        "eel",
+        "sturgeon"
+    ],
+    "lionfish": [
+        "clownfish",
+        "rock beauty fish",
+        "pufferfish"
+    ],
+    "pufferfish": [
+        "clownfish",
+        "lionfish",
+        "rock beauty fish"
+    ],
+    "abacus": [
+        "slide rule",
+        "computer keyboard"
+    ],
+    "abaya": [
+        "academic gown",
+        "kimono",
+        "cloak"
+    ],
+    "academic gown": [
+        "military uniform",
+        "graduation cap",
+        "gown",
+        "vestment",
+        "kimono"
+    ],
+    "accordion": [
+        "banjo",
+        "bassoon",
+        "cello",
+        "flute",
+        "harmonica",
+        "harp",
+        "oboe",
+        "saxophone",
+        "trombone",
+        "violin"
+    ],
+    "acoustic guitar": [
+        "electric guitar",
+        "banjo",
+        "cello",
+        "harp",
+        "violin"
+    ],
+    "aircraft carrier": [
+        "container ship",
+        "freight car",
+        "lifeboat",
+        "submarine"
+    ],
+    "airliner": [
+        "airship",
+        "space shuttle",
+        "military aircraft"
+    ],
+    "airship": [],
+    "altar": [
+        "church",
+        "mosque",
+        "prayer rug",
+        "stupa"
+    ],
+    "ambulance": [
+        "fire truck",
+        "police van",
+        "taxicab",
+        "minibus",
+        "moving van"
+    ],
+    "amphibious vehicle": [
+        "snowmobile",
+        "motorboat",
+        "canoe"
+    ],
+    "analog clock": [
+        "digital clock",
+        "wall clock"
+    ],
+    "apiary": [
+        "honeycomb",
+        "bee"
+    ],
+    "apron": [
+        "lab coat",
+        "butcher shop"
+    ],
+    "trash can": [
+        "garbage truck"
+    ],
+    "assault rifle": [
+        "rifle",
+        "revolver",
+        "military uniform"
+    ],
+    "backpack": [
+        "messenger bag"
+    ],
+    "bakery": [],
+    "balance beam": [
+        "gymnastic horizontal bar",
+        "parallel bars"
+    ],
+    "balloon": [],
+    "ballpoint pen": [
+        "fountain pen"
+    ],
+    "Band-Aid": [],
+    "banjo": [
+        "acoustic guitar",
+        "electric guitar",
+        "cello",
+        "harmonica",
+        "saxophone",
+        "violin"
+    ],
+    "baluster / handrail": [
+        "chain-link fence",
+        "split-rail fence",
+        "stone wall"
+    ],
+    "barbell": [
+        "dumbbell",
+        "gymnastic horizontal bar"
+    ],
+    "barber chair": [
+        "rocking chair"
+    ],
+    "barbershop": [],
+    "barn": [],
+    "barometer": [
+        "measuring cup",
+        "odometer"
+    ],
+    "barrel": [
+        "drum",
+        "storage chest"
+    ],
+    "wheelbarrow": [],
+    "baseball": [
+        "tennis ball",
+        "soccer ball",
+        "basketball",
+        "volleyball",
+        "rugby ball"
+    ],
+    "basketball": [
+        "soccer ball",
+        "tennis ball",
+        "volleyball",
+        "rugby ball",
+        "baseball",
+        "football helmet"
+    ],
+    "bassinet": [
+        "cradle",
+        "infant bed",
+        "baby pacifier",
+        "diaper"
+    ],
+    "bassoon": [
+        "oboe",
+        "flute",
+        "trombone",
+        "French horn",
+        "saxophone",
+        "cello",
+        "violin"
+    ],
+    "swimming cap": [
+        "swim trunks / shorts",
+        "snorkel",
+        "lifeboat"
+    ],
+    "bath towel": [
+        "beach",
+        "shower curtain",
+        "sink"
+    ],
+    "bathtub": [
+        "shower cap",
+        "shower curtain",
+        "toilet seat",
+        "sink"
+    ],
+    "station wagon": [
+        "minivan",
+        "pickup truck",
+        "limousine",
+        "school bus",
+        "convertible",
+        "sports car",
+        "semi-trailer truck"
+    ],
+    "lighthouse": [
+        "bell tower",
+        "lighter",
+        "dock"
+    ],
+    "beaker": [
+        "Petri dish",
+        "medicine cabinet"
+    ],
+    "military hat (bearskin or shako)": [
+        "military uniform"
+    ],
+    "beer bottle": [
+        "beer glass",
+        "wine bottle",
+        "whiskey jug",
+        "soda bottle",
+        "water bottle"
+    ],
+    "beer glass": [
+        "beer bottle",
+        "wine bottle",
+        "coffee mug",
+        "tea cup",
+        "goblet"
+    ],
+    "bell tower": [
+        "lighthouse",
+        "church"
+    ],
+    "baby bib": [
+        "diaper",
+        "baby pacifier",
+        "bassinet",
+        "infant bed",
+        "tights"
+    ],
+    "tandem bicycle": [
+        "mountain bike",
+        "unicycle",
+        "tricycle"
+    ],
+    "bikini": [
+        "swimming cap",
+        "swim trunks / shorts",
+        "one-piece bathing suit",
+        "beach"
+    ],
+    "ring binder": [
+        "notebook computer",
+        "jigsaw puzzle",
+        "envelope",
+        "shopping basket"
+    ],
+    "binoculars": [],
+    "birdhouse": [
+        "boathouse",
+        "greenhouse"
+    ],
+    "boathouse": [],
+    "bobsleigh": [
+        "dog sled",
+        "snowmobile"
+    ],
+    "bolo tie": [
+        "bow tie",
+        "necklace",
+        "Windsor tie"
+    ],
+    "poke bonnet": [
+        "cowboy hat",
+        "sombrero",
+        "military hat (bearskin or shako)"
+    ],
+    "bookcase": [
+        "china cabinet",
+        "wardrobe",
+        "filing cabinet",
+        "storage chest"
+    ],
+    "bookstore": [
+        "library",
+        "toy store",
+        "candy store"
+    ],
+    "bottle cap": [
+        "can opener"
+    ],
+    "hunting bow": [
+        "rifle",
+        "assault rifle"
+    ],
+    "bow tie": [
+        "bolo tie",
+        "Windsor tie"
+    ],
+    "brass memorial plaque": [],
+    "bra": [],
+    "breakwater": [
+        "dam",
+        "dock",
+        "pier",
+        "lighthouse"
+    ],
+    "breastplate": [
+        "cuirass",
+        "chain mail",
+        "shield"
+    ],
+    "broom": [
+        "mop"
+    ],
+    "bucket": [
+        "barrel",
+        "crate"
+    ],
+    "buckle": [],
+    "bulletproof vest": [],
+    "high-speed train": [
+        "electric locomotive",
+        "freight car",
+        "railroad car"
+    ],
+    "butcher shop": [
+        "grocery store"
+    ],
+    "taxicab": [
+        "limousine",
+        "minivan"
+    ],
+    "cauldron": [
+        "Dutch oven"
+    ],
+    "candle": [
+        "lighter",
+        "torch",
+        "fire screen"
+    ],
+    "cannon": [
+        "assault rifle",
+        "rifle",
+        "revolver",
+        "missile"
+    ],
+    "canoe": [
+        "catamaran",
+        "gondola"
+    ],
+    "can opener": [
+        "corkscrew"
+    ],
+    "cardigan": [],
+    "car mirror": [],
+    "carousel": [],
+    "tool kit": [],
+    "cardboard box / carton": [
+        "crate"
+    ],
+    "car wheel": [],
+    "automated teller machine": [
+        "safe"
+    ],
+    "cassette": [
+        "cassette player"
+    ],
+    "cassette player": [
+        "tape player",
+        "CD player",
+        "radio"
+    ],
+    "castle": [
+        "palace"
+    ],
+    "catamaran": [
+        "sailboat",
+        "canoe"
+    ],
+    "CD player": [
+        "cassette player"
+    ],
+    "cello": [
+        "violin"
+    ],
+    "mobile phone": [],
+    "chain": [
+        "necklace"
+    ],
+    "chain-link fence": [
+        "picket fence"
+    ],
+    "chain mail": [
+        "breastplate",
+        "cuirass",
+        "military uniform",
+        "shield"
+    ],
+    "chainsaw": [
+        "hatchet",
+        "sawmill",
+        "power drill",
+        "hammer"
+    ],
+    "storage chest": [
+        "crate",
+        "filing cabinet",
+        "safe"
+    ],
+    "chiffonier": [
+        "wardrobe",
+        "bookcase",
+        "china cabinet"
+    ],
+    "bell or wind chime": [
+        "gong"
+    ],
+    "china cabinet": [
+        "bookcase",
+        "wardrobe"
+    ],
+    "Christmas stocking": [
+        "sock"
+    ],
+    "church": [
+        "mosque",
+        "monastery"
+    ],
+    "movie theater": [],
+    "cleaver": [
+        "hatchet"
+    ],
+    "cliff dwelling": [
+        "dome",
+        "palace",
+        "castle",
+        "church",
+        "mosque",
+        "monastery",
+        "cliff",
+        "mountain",
+        "valley"
+    ],
+    "cloak": [
+        "gown",
+        "academic gown",
+        "fur coat",
+        "military uniform",
+        "sundial",
+        "trench coat",
+        "vestment",
+        "kimono",
+        "sarong"
+    ],
+    "clogs": [
+        "slip-on shoe",
+        "sandal",
+        "cowboy boot",
+        "shoe store",
+        "mitten",
+        "sock"
+    ],
+    "cocktail shaker": [
+        "beer glass",
+        "wine bottle",
+        "whiskey jug",
+        "coffee mug",
+        "teapot",
+        "drink pitcher",
+        "water bottle",
+        "beer bottle",
+        "soda bottle"
+    ],
+    "coffee mug": [
+        "beer glass",
+        "tea cup",
+        "wine bottle",
+        "whiskey jug",
+        "drink pitcher",
+        "water bottle",
+        "soda bottle",
+        "beer bottle",
+        "cocktail shaker"
+    ],
+    "coffeemaker": [
+        "espresso machine",
+        "toaster",
+        "microwave oven",
+        "Crock Pot",
+        "washing machine",
+        "dishwasher",
+        "refrigerator"
+    ],
+    "spiral or coil": [
+        "rotary dial telephone",
+        "corkscrew",
+        "combination lock"
+    ],
+    "combination lock": [
+        "padlock",
+        "safe",
+        "chain",
+        "buckle"
+    ],
+    "computer keyboard": [
+        "keyboard space bar",
+        "typewriter keyboard",
+        "remote control",
+        "mobile phone",
+        "laptop computer",
+        "monitor",
+        "desktop computer"
+    ],
+    "candy store": [
+        "bakery",
+        "butcher shop",
+        "grocery store",
+        "tobacco shop",
+        "restaurant",
+        "ice cream",
+        "chocolate syrup"
+    ],
+    "container ship": [
+        "freight car",
+        "sailboat",
+        "canoe",
+        "catamaran",
+        "lifeboat",
+        "motorboat",
+        "ocean liner"
+    ],
+    "convertible": [
+        "sports car",
+        "station wagon",
+        "limousine",
+        "jeep",
+        "minivan",
+        "pickup truck",
+        "semi-trailer truck",
+        "taxicab",
+        "race car"
+    ],
+    "corkscrew": [
+        "can opener",
+        "screwdriver",
+        "wine bottle",
+        "whiskey jug",
+        "beer bottle",
+        "screw",
+        "padlock",
+        "combination lock"
+    ],
+    "cornet": [
+        "trombone",
+        "French horn",
+        "oboe",
+        "saxophone",
+        "harmonica",
+        "accordion"
+    ],
+    "cowboy boot": [
+        "cowboy hat"
+    ],
+    "cowboy hat": [
+        "sombrero",
+        "military hat (bearskin or shako)"
+    ],
+    "cradle": [
+        "infant bed",
+        "bassinet",
+        "rocking chair",
+        "baby pacifier",
+        "diaper",
+        "baby bib"
+    ],
+    "construction crane": [
+        "forklift",
+        "drilling rig",
+        "mobile home"
+    ],
+    "crash helmet": [
+        "football helmet"
+    ],
+    "crate": [
+        "barrel",
+        "hamper"
+    ],
+    "infant bed": [
+        "bassinet",
+        "cradle",
+        "baby pacifier",
+        "diaper"
+    ],
+    "Crock Pot": [
+        "Dutch oven",
+        "frying pan",
+        "microwave oven",
+        "refrigerator",
+        "toaster",
+        "washing machine"
+    ],
+    "croquet ball": [
+        "golf ball",
+        "ping-pong ball",
+        "rugby ball",
+        "soccer ball",
+        "tennis ball",
+        "volleyball"
+    ],
+    "crutch": [],
+    "cuirass": [
+        "breastplate",
+        "chain mail",
+        "shield"
+    ],
+    "dam": [
+        "breakwater"
+    ],
+    "desk": [
+        "pedestal"
+    ],
+    "desktop computer": [
+        "laptop computer",
+        "notebook computer",
+        "monitor",
+        "printer"
+    ],
+    "rotary dial telephone": [
+        "payphone"
+    ],
+    "diaper": [
+        "baby bib",
+        "infant bed",
+        "bassinet"
+    ],
+    "digital clock": [
+        "analog clock",
+        "wall clock",
+        "digital watch"
+    ],
+    "digital watch": [
+        "analog clock",
+        "digital clock"
+    ],
+    "dining table": [
+        "coffee mug",
+        "folding chair",
+        "table lamp",
+        "desk"
+    ],
+    "dishcloth": [
+        "bath towel",
+        "paper towel",
+        "dishwasher"
+    ],
+    "dishwasher": [
+        "sink",
+        "washing machine",
+        "microwave oven",
+        "refrigerator"
+    ],
+    "disc brake": [
+        "car wheel"
+    ],
+    "dock": [
+        "pier"
+    ],
+    "dog sled": [
+        "snowmobile",
+        "bobsleigh"
+    ],
+    "dome": [
+        "vaulted or arched ceiling",
+        "stupa",
+        "mosque"
+    ],
+    "doormat": [],
+    "drilling rig": [
+        "construction crane",
+        "oil filter",
+        "steam locomotive",
+        "fireboat",
+        "forklift"
+    ],
+    "drum": [
+        "marimba",
+        "bassoon",
+        "cello",
+        "gong"
+    ],
+    "drumstick": [
+        "spatula",
+        "wooden spoon"
+    ],
+    "dumbbell": [
+        "barbell",
+        "hammer",
+        "hatchet",
+        "pole"
+    ],
+    "Dutch oven": [
+        "frying pan",
+        "cauldron"
+    ],
+    "electric fan": [
+        "space heater"
+    ],
+    "electric guitar": [
+        "acoustic guitar",
+        "microphone"
+    ],
+    "electric locomotive": [
+        "steam locomotive",
+        "freight car",
+        "tank",
+        "motorboat",
+        "snowmobile"
+    ],
+    "entertainment center": [
+        "television",
+        "home theater",
+        "radio",
+        "projector"
+    ],
+    "envelope": [
+        "letter opener",
+        "mailbox"
+    ],
+    "espresso machine": [
+        "coffee mug",
+        "espresso",
+        "teapot",
+        "toaster",
+        "sink",
+        "waffle iron",
+        "washing machine",
+        "microwave oven"
+    ],
+    "face powder": [
+        "lipstick",
+        "perfume",
+        "lotion"
+    ],
+    "feather boa": [
+        "fur coat",
+        "mitten",
+        "scarf",
+        "necklace"
+    ],
+    "filing cabinet": [
+        "storage chest",
+        "bookcase",
+        "wardrobe",
+        "safe",
+        "desk"
+    ],
+    "fireboat": [
+        "lifeboat",
+        "canoe",
+        "fire truck",
+        "sailboat",
+        "motorboat"
+    ],
+    "fire truck": [
+        "ambulance",
+        "police van",
+        "fireboat",
+        "moving van",
+        "garbage truck",
+        "tank",
+        "snowplow",
+        "tow truck"
+    ],
+    "fire screen": [
+        "radiator grille",
+        "chain-link fence",
+        "window screen"
+    ],
+    "flagpole": [
+        "pole",
+        "lighthouse",
+        "obelisk",
+        "maypole"
+    ],
+    "flute": [
+        "oboe",
+        "saxophone",
+        "trombone",
+        "harmonica",
+        "pan flute"
+    ],
+    "folding chair": [
+        "rocking chair"
+    ],
+    "football helmet": [
+        "crash helmet"
+    ],
+    "forklift": [
+        "tractor",
+        "construction crane"
+    ],
+    "fountain": [
+        "fountain pen"
+    ],
+    "fountain pen": [
+        "ballpoint pen",
+        "quill"
+    ],
+    "four-poster bed": [],
+    "freight car": [
+        "railroad car"
+    ],
+    "French horn": [
+        "trombone"
+    ],
+    "frying pan": [
+        "wok"
+    ],
+    "fur coat": [],
+    "garbage truck": [
+        "moving van",
+        "fire truck"
+    ],
+    "gas mask or respirator": [
+        "military hat (bearskin or shako)",
+        "oxygen mask",
+        "muzzle",
+        "face powder",
+        "mask"
+    ],
+    "gas pump": [
+        "oil filter",
+        "tank",
+        "automated teller machine",
+        "vending machine",
+        "water jug"
+    ],
+    "goblet": [
+        "beer glass",
+        "wine bottle",
+        "whiskey jug",
+        "teapot",
+        "coffee mug"
+    ],
+    "go-kart": [
+        "snowmobile",
+        "forklift",
+        "lawn mower",
+        "moped",
+        "motorboat",
+        "bobsleigh"
+    ],
+    "golf ball": [
+        "tennis ball",
+        "baseball",
+        "soccer ball",
+        "ping-pong ball",
+        "rugby ball",
+        "volleyball"
+    ],
+    "golf cart": [
+        "tractor",
+        "electric locomotive",
+        "jeep",
+        "forklift"
+    ],
+    "gondola": [
+        "canoe",
+        "sailboat",
+        "catamaran",
+        "lifeboat"
+    ],
+    "gong": [
+        "bell tower",
+        "maraca",
+        "drum",
+        "harmonica",
+        "flute"
+    ],
+    "gown": [
+        "academic gown",
+        "cloak",
+        "kimono"
+    ],
+    "grand piano": [
+        "upright piano",
+        "accordion",
+        "violin",
+        "cello"
+    ],
+    "greenhouse": [
+        "plant pot"
+    ],
+    "radiator grille": [
+        "car wheel",
+        "radiator"
+    ],
+    "grocery store": [
+        "butcher shop",
+        "bakery",
+        "restaurant"
+    ],
+    "guillotine": [
+        "cannon",
+        "missile"
+    ],
+    "hair clip": [
+        "hair spray"
+    ],
+    "hair spray": [
+        "perfume"
+    ],
+    "half-track": [
+        "tank"
+    ],
+    "hammer": [
+        "screwdriver"
+    ],
+    "hamper": [
+        "shopping basket",
+        "storage chest",
+        "crate"
+    ],
+    "hair dryer": [
+        "electric fan",
+        "toaster",
+        "vacuum cleaner"
+    ],
+    "hand-held computer": [
+        "mobile phone",
+        "notebook computer",
+        "laptop computer"
+    ],
+    "handkerchief": [
+        "dishcloth"
+    ],
+    "hard disk drive": [],
+    "harmonica": [
+        "accordion",
+        "flute",
+        "oboe",
+        "pan flute"
+    ],
+    "harp": [
+        "violin",
+        "cello",
+        "grand piano"
+    ],
+    "combine harvester": [
+        "tractor",
+        "threshing machine",
+        "farm plow"
+    ],
+    "hatchet": [
+        "hammer"
+    ],
+    "holster": [
+        "scabbard"
+    ],
+    "home theater": [
+        "television",
+        "entertainment center"
+    ],
+    "honeycomb": [
+        "apiary"
+    ],
+    "hook": [
+        "chain",
+        "padlock",
+        "buckle",
+        "holster",
+        "muzzle",
+        "safety pin",
+        "knot"
+    ],
+    "hoop skirt": [
+        "overskirt",
+        "tights",
+        "miniskirt",
+        "sarong",
+        "kimono",
+        "cloak"
+    ],
+    "gymnastic horizontal bar": [
+        "parallel bars",
+        "balance beam",
+        "radiator grille",
+        "pole"
+    ],
+    "horse-drawn vehicle": [
+        "bullock cart",
+        "dog sled",
+        "bobsleigh",
+        "rickshaw"
+    ],
+    "hourglass": [
+        "sandbar",
+        "digital clock",
+        "analog clock",
+        "stopwatch",
+        "sundial"
+    ],
+    "iPod": [
+        "mobile phone",
+        "remote control",
+        "hand-held computer",
+        "CD player",
+        "tape player",
+        "modem"
+    ],
+    "clothes iron": [
+        "steam locomotive",
+        "electric fan",
+        "hair dryer",
+        "toaster",
+        "waffle iron",
+        "Crock Pot"
+    ],
+    "carved pumpkin": [
+        "jackfruit",
+        "pomegranate",
+        "corn cob",
+        "guacamole",
+        "artichoke",
+        "bell pepper",
+        "cucumber"
+    ],
+    "jeans": [],
+    "jeep": [
+        "pickup truck",
+        "limousine",
+        "minibus",
+        "fire truck",
+        "forklift",
+        "snowmobile",
+        "ambulance"
+    ],
+    "T-shirt": [
+        "jeans",
+        "sweatshirt",
+        "suit",
+        "trench coat",
+        "cardigan"
+    ],
+    "jigsaw puzzle": [
+        "crossword",
+        "comic book",
+        "menu",
+        "dust jacket",
+        "plate",
+        "guacamole"
+    ],
+    "rickshaw": [
+        "tandem bicycle",
+        "go-kart",
+        "moped",
+        "motorboat",
+        "bullock cart",
+        "wheelbarrow"
+    ],
+    "joystick": [
+        "remote control",
+        "computer mouse",
+        "modem",
+        "monitor",
+        "digital watch"
+    ],
+    "kimono": [
+        "sarong",
+        "cloak",
+        "poncho",
+        "vestment"
+    ],
+    "knee pad": [
+        "football helmet",
+        "crash helmet"
+    ],
+    "knot": [],
+    "lab coat": [
+        "apron",
+        "academic gown",
+        "military uniform"
+    ],
+    "ladle": [
+        "wooden spoon",
+        "measuring cup",
+        "mixing bowl",
+        "frying pan"
+    ],
+    "lampshade": [
+        "table lamp"
+    ],
+    "laptop computer": [
+        "notebook computer",
+        "desktop computer",
+        "mobile phone",
+        "computer keyboard",
+        "monitor"
+    ],
+    "lawn mower": [],
+    "lens cap": [],
+    "letter opener": [
+        "envelope"
+    ],
+    "library": [
+        "bookstore"
+    ],
+    "lifeboat": [
+        "canoe",
+        "sailboat"
+    ],
+    "lighter": [
+        "matchstick",
+        "candle",
+        "torch"
+    ],
+    "limousine": [
+        "taxicab"
+    ],
+    "ocean liner": [
+        "container ship"
+    ],
+    "lipstick": [
+        "perfume",
+        "face powder"
+    ],
+    "slip-on shoe": [
+        "sneaker",
+        "clogs"
+    ],
+    "lotion": [
+        "face powder",
+        "perfume",
+        "sunscreen",
+        "lipstick"
+    ],
+    "music speaker": [
+        "microphone",
+        "monitor",
+        "radio",
+        "television"
+    ],
+    "loupe magnifying glass": [],
+    "sawmill": [
+        "tool kit",
+        "power drill",
+        "wooden spoon"
+    ],
+    "magnetic compass": [
+        "binoculars"
+    ],
+    "messenger bag": [
+        "backpack",
+        "shopping basket",
+        "purse"
+    ],
+    "mailbox": [
+        "envelope",
+        "letter opener"
+    ],
+    "tights": [],
+    "one-piece bathing suit": [
+        "swim trunks / shorts",
+        "bikini",
+        "swimming cap"
+    ],
+    "manhole cover": [
+        "stone wall",
+        "metal nail",
+        "vaulted or arched ceiling",
+        "barrel"
+    ],
+    "maraca": [
+        "gong",
+        "drum",
+        "harmonica",
+        "ocarina",
+        "pan flute",
+        "bell or wind chime",
+        "marimba"
+    ],
+    "marimba": [
+        "flute",
+        "maraca"
+    ],
+    "mask": [
+        "face powder",
+        "gas mask or respirator",
+        "balaclava ski mask",
+        "sunglasses"
+    ],
+    "matchstick": [
+        "wooden spoon",
+        "candle",
+        "lighter"
+    ],
+    "maypole": [
+        "flagpole",
+        "totem pole",
+        "pole",
+        "obelisk",
+        "construction crane"
+    ],
+    "maze": [
+        "stone wall",
+        "picket fence"
+    ],
+    "measuring cup": [
+        "beer glass",
+        "wine bottle",
+        "water jug",
+        "mixing bowl"
+    ],
+    "medicine cabinet": [
+        "storage chest",
+        "pill bottle",
+        "china cabinet"
+    ],
+    "megalith": [
+        "cliff"
+    ],
+    "microphone": [
+        "harmonica",
+        "flute",
+        "oboe",
+        "pan flute",
+        "saxophone",
+        "violin",
+        "cello"
+    ],
+    "microwave oven": [
+        "toaster",
+        "refrigerator",
+        "stove",
+        "dishwasher",
+        "coffeemaker",
+        "espresso machine",
+        "Crock Pot",
+        "waffle iron"
+    ],
+    "military uniform": [
+        "academic gown",
+        "graduation cap",
+        "suit",
+        "vestment",
+        "kimono",
+        "cowboy hat",
+        "lab coat"
+    ],
+    "milk can": [
+        "water bottle",
+        "beer bottle",
+        "wine bottle",
+        "whiskey jug",
+        "soda bottle",
+        "coffee mug",
+        "goblet"
+    ],
+    "minibus": [
+        "minivan",
+        "school bus",
+        "ambulance",
+        "limousine",
+        "moving van",
+        "pickup truck",
+        "police van",
+        "taxicab"
+    ],
+    "miniskirt": [
+        "jeans",
+        "tights",
+        "swim trunks / shorts",
+        "sarong"
+    ],
+    "minivan": [
+        "minibus",
+        "station wagon",
+        "moving van",
+        "recreational vehicle"
+    ],
+    "missile": [],
+    "mitten": [
+        "scarf",
+        "sock",
+        "knee pad",
+        "balaclava ski mask",
+        "swimming cap",
+        "handkerchief"
+    ],
+    "mixing bowl": [
+        "measuring cup",
+        "frying pan",
+        "ladle",
+        "strainer"
+    ],
+    "mobile home": [
+        "tent",
+        "yurt",
+        "castle",
+        "palace"
+    ],
+    "ford model t": [
+        "limousine",
+        "jeep",
+        "pickup truck",
+        "sports car",
+        "convertible",
+        "station wagon",
+        "minivan",
+        "semi-trailer truck",
+        "race car",
+        "ambulance"
+    ],
+    "modem": [
+        "microwave oven",
+        "radio telescope",
+        "television",
+        "computer keyboard",
+        "monitor",
+        "laptop computer",
+        "desktop computer",
+        "mobile phone"
+    ],
+    "monastery": [
+        "church",
+        "mosque"
+    ],
+    "monitor": [
+        "television",
+        "CRT monitor",
+        "projector",
+        "digital watch",
+        "digital clock",
+        "laptop computer",
+        "desktop computer"
+    ],
+    "moped": [
+        "vespa",
+        "mountain bike",
+        "electric locomotive",
+        "go-kart"
+    ],
+    "mortar and pestle": [
+        "mixing bowl",
+        "spatula",
+        "ladle",
+        "measuring cup"
+    ],
+    "graduation cap": [
+        "military hat (bearskin or shako)",
+        "cowboy hat"
+    ],
+    "mosque": [
+        "church",
+        "monastery",
+        "prayer rug"
+    ],
+    "mosquito net": [
+        "strainer",
+        "window screen",
+        "umbrella"
+    ],
+    "vespa": [
+        "moped",
+        "motorboat"
+    ],
+    "mountain bike": [
+        "tandem bicycle",
+        "moped",
+        "sports car"
+    ],
+    "tent": [
+        "sleeping bag",
+        "mobile home",
+        "yurt",
+        "beach"
+    ],
+    "computer mouse": [
+        "computer keyboard",
+        "laptop computer",
+        "hand-held computer",
+        "monitor"
+    ],
+    "mousetrap": [],
+    "moving van": [
+        "minivan",
+        "semi-trailer truck",
+        "station wagon",
+        "minibus"
+    ],
+    "muzzle": [
+        "horse-drawn vehicle"
+    ],
+    "metal nail": [
+        "screw",
+        "hook"
+    ],
+    "neck brace": [],
+    "necklace": [],
+    "baby pacifier": [
+        "diaper",
+        "baby bib",
+        "infant bed",
+        "bassinet"
+    ],
+    "notebook computer": [
+        "laptop computer",
+        "desktop computer",
+        "hand-held computer",
+        "computer keyboard"
+    ],
+    "obelisk": [
+        "totem pole"
+    ],
+    "oboe": [
+        "flute",
+        "saxophone"
+    ],
+    "ocarina": [
+        "flute",
+        "pan flute",
+        "harmonica"
+    ],
+    "odometer": [
+        "measuring cup",
+        "ruler measuring stick"
+    ],
+    "oil filter": [
+        "car wheel",
+        "radiator"
+    ],
+    "pipe organ": [
+        "grand piano",
+        "upright piano"
+    ],
+    "oscilloscope": [
+        "monitor"
+    ],
+    "overskirt": [
+        "hoop skirt",
+        "gown"
+    ],
+    "bullock cart": [
+        "ox",
+        "farm plow",
+        "horse-drawn vehicle"
+    ],
+    "oxygen mask": [
+        "gas mask or respirator",
+        "scuba diver",
+        "face powder"
+    ],
+    "product packet / packaging": [
+        "plastic bag",
+        "cardboard box / carton",
+        "pill bottle"
+    ],
+    "paddle": [
+        "canoe",
+        "paddle wheel"
+    ],
+    "paddle wheel": [
+        "steam locomotive"
+    ],
+    "padlock": [
+        "combination lock",
+        "chain",
+        "safe"
+    ],
+    "paintbrush": [],
+    "pajamas": [],
+    "palace": [
+        "castle"
+    ],
+    "pan flute": [
+        "flute",
+        "ocarina"
+    ],
+    "paper towel": [
+        "dishcloth",
+        "toilet paper"
+    ],
+    "parachute": [],
+    "parallel bars": [
+        "balance beam",
+        "gymnastic horizontal bar"
+    ],
+    "park bench": [
+        "patio",
+        "parking meter"
+    ],
+    "parking meter": [
+        "payphone",
+        "park bench",
+        "traffic light"
+    ],
+    "railroad car": [
+        "freight car"
+    ],
+    "patio": [
+        "park bench"
+    ],
+    "payphone": [
+        "mobile phone",
+        "rotary dial telephone"
+    ],
+    "pedestal": [
+        "fountain"
+    ],
+    "pencil case": [
+        "pencil sharpener",
+        "backpack"
+    ],
+    "pencil sharpener": [
+        "pencil case",
+        "eraser",
+        "ruler measuring stick",
+        "notebook computer"
+    ],
+    "perfume": [
+        "face powder",
+        "soap dispenser",
+        "lotion"
+    ],
+    "Petri dish": [
+        "beaker",
+        "medicine cabinet",
+        "lab coat"
+    ],
+    "photocopier": [
+        "printer",
+        "desktop computer",
+        "monitor"
+    ],
+    "plectrum": [
+        "banjo",
+        "acoustic guitar",
+        "electric guitar"
+    ],
+    "Pickelhaube": [
+        "military hat (bearskin or shako)"
+    ],
+    "picket fence": [
+        "split-rail fence",
+        "chain-link fence"
+    ],
+    "pickup truck": [
+        "semi-trailer truck",
+        "jeep"
+    ],
+    "pier": [
+        "dock",
+        "breakwater"
+    ],
+    "piggy bank": [
+        "safe",
+        "wallet"
+    ],
+    "pill bottle": [
+        "medicine cabinet"
+    ],
+    "pillow": [
+        "sleeping bag"
+    ],
+    "ping-pong ball": [
+        "soccer ball",
+        "tennis ball",
+        "volleyball",
+        "baseball",
+        "golf ball"
+    ],
+    "pinwheel": [],
+    "pirate ship": [
+        "sailboat",
+        "canoe",
+        "gondola"
+    ],
+    "drink pitcher": [
+        "water jug",
+        "teapot",
+        "beer glass",
+        "wine bottle",
+        "coffee mug"
+    ],
+    "block plane": [
+        "screwdriver",
+        "hammer",
+        "tool kit",
+        "power drill"
+    ],
+    "planetarium": [
+        "space shuttle"
+    ],
+    "plastic bag": [
+        "shopping basket",
+        "shopping cart",
+        "cardboard box / carton",
+        "backpack"
+    ],
+    "plate rack": [
+        "china cabinet"
+    ],
+    "farm plow": [
+        "combine harvester",
+        "bullock cart",
+        "tractor"
+    ],
+    "plunger": [
+        "broom",
+        "mop"
+    ],
+    "Polaroid camera": [
+        "reflex camera"
+    ],
+    "pole": [
+        "flagpole",
+        "construction crane"
+    ],
+    "police van": [
+        "ambulance",
+        "fire truck",
+        "minivan"
+    ],
+    "poncho": [
+        "trench coat",
+        "cloak",
+        "kimono"
+    ],
+    "pool table": [
+        "ping-pong ball"
+    ],
+    "soda bottle": [
+        "water bottle",
+        "beer bottle",
+        "wine bottle"
+    ],
+    "plant pot": [
+        "vase"
+    ],
+    "potter's wheel": [],
+    "power drill": [
+        "hammer",
+        "screwdriver",
+        "hatchet",
+        "sawmill",
+        "lawn mower",
+        "chainsaw"
+    ],
+    "prayer rug": [
+        "rugby ball",
+        "bath towel",
+        "doormat"
+    ],
+    "printer": [
+        "photocopier",
+        "computer keyboard",
+        "monitor",
+        "desktop computer",
+        "notebook computer",
+        "laptop computer"
+    ],
+    "prison": [],
+    "projector": [
+        "reflex camera",
+        "television",
+        "monitor",
+        "CRT monitor"
+    ],
+    "hockey puck": [
+        "plate",
+        "manhole cover"
+    ],
+    "punching bag": [],
+    "purse": [
+        "wallet",
+        "messenger bag",
+        "backpack"
+    ],
+    "quill": [
+        "fountain pen",
+        "ballpoint pen"
+    ],
+    "quilt": [
+        "pillow",
+        "sleeping bag",
+        "tights",
+        "wool",
+        "sweatshirt",
+        "scarf"
+    ],
+    "race car": [
+        "sports car",
+        "pickup truck",
+        "limousine",
+        "ambulance",
+        "go-kart",
+        "moped"
+    ],
+    "racket": [
+        "tennis ball",
+        "golf ball",
+        "baseball",
+        "basketball",
+        "rugby ball",
+        "soccer ball",
+        "volleyball"
+    ],
+    "radiator": [
+        "space heater",
+        "stove",
+        "radiator grille"
+    ],
+    "radio": [
+        "microphone",
+        "television",
+        "remote control"
+    ],
+    "radio telescope": [],
+    "rain barrel": [
+        "water jug",
+        "barrel",
+        "storage chest",
+        "bucket"
+    ],
+    "recreational vehicle": [
+        "minivan"
+    ],
+    "fishing casting reel": [
+        "canoe"
+    ],
+    "reflex camera": [
+        "binoculars",
+        "projector"
+    ],
+    "refrigerator": [
+        "microwave oven",
+        "dishwasher",
+        "toaster",
+        "sink",
+        "washing machine"
+    ],
+    "remote control": [
+        "television",
+        "computer mouse",
+        "mobile phone",
+        "digital watch"
+    ],
+    "restaurant": [
+        "grocery store",
+        "bakery",
+        "butcher shop",
+        "candy store",
+        "coffee mug"
+    ],
+    "revolver": [
+        "rifle",
+        "assault rifle"
+    ],
+    "rifle": [
+        "assault rifle",
+        "revolver"
+    ],
+    "rocking chair": [
+        "folding chair"
+    ],
+    "rotisserie": [
+        "microwave oven",
+        "Crock Pot"
+    ],
+    "eraser": [
+        "pencil sharpener"
+    ],
+    "rugby ball": [
+        "soccer ball",
+        "tennis ball",
+        "volleyball",
+        "basketball",
+        "baseball"
+    ],
+    "ruler measuring stick": [],
+    "sneaker": [
+        "slip-on shoe",
+        "sandal",
+        "hockey puck",
+        "rugby ball",
+        "soccer ball",
+        "tennis ball",
+        "mitten",
+        "sock",
+        "swim trunks / shorts",
+        "sweatshirt"
+    ],
+    "safe": [
+        "metal nail",
+        "padlock",
+        "purse",
+        "piggy bank",
+        "suit",
+        "shopping basket",
+        "shopping cart",
+        "crate"
+    ],
+    "safety pin": [
+        "buckle",
+        "hook",
+        "pinwheel",
+        "hair clip",
+        "diaper",
+        "baby bib"
+    ],
+    "salt shaker": [
+        "soap dispenser",
+        "teapot"
+    ],
+    "sandal": [
+        "slip-on shoe",
+        "sneaker",
+        "cowboy boot",
+        "shoe store"
+    ],
+    "sarong": [
+        "kimono",
+        "cloak",
+        "poncho",
+        "bath towel",
+        "tights"
+    ],
+    "saxophone": [
+        "trombone",
+        "flute",
+        "oboe",
+        "bassoon",
+        "French horn",
+        "harmonica",
+        "accordion"
+    ],
+    "scabbard": [
+        "holster",
+        "shield",
+        "cuirass",
+        "breastplate"
+    ],
+    "weighing scale": [
+        "measuring cup",
+        "ruler measuring stick",
+        "odometer",
+        "barometer",
+        "balance beam"
+    ],
+    "school bus": [
+        "minibus",
+        "ambulance",
+        "fire truck",
+        "police van",
+        "moving van",
+        "pickup truck",
+        "limousine",
+        "taxicab",
+        "tractor"
+    ],
+    "schooner": [
+        "sailboat",
+        "canoe",
+        "catamaran",
+        "gondola"
+    ],
+    "scoreboard": [
+        "digital clock",
+        "digital watch",
+        "stopwatch"
+    ],
+    "CRT monitor": [
+        "monitor",
+        "television",
+        "laptop computer",
+        "desktop computer"
+    ],
+    "screw": [
+        "screwdriver"
+    ],
+    "screwdriver": [
+        "hammer",
+        "tool kit",
+        "power drill"
+    ],
+    "seat belt": [
+        "buckle"
+    ],
+    "sewing machine": [
+        "quilt"
+    ],
+    "shield": [
+        "breastplate"
+    ],
+    "shoe store": [],
+    "shoji screen / room divider": [
+        "sliding door"
+    ],
+    "shopping basket": [
+        "shopping cart",
+        "purse",
+        "backpack"
+    ],
+    "shopping cart": [
+        "shopping basket",
+        "wheelbarrow"
+    ],
+    "shovel": [
+        "broom"
+    ],
+    "shower cap": [
+        "swimming cap",
+        "balaclava ski mask"
+    ],
+    "shower curtain": [
+        "shoji screen / room divider",
+        "plastic bag"
+    ],
+    "ski": [
+        "snowmobile"
+    ],
+    "balaclava ski mask": [
+        "scarf",
+        "shower cap"
+    ],
+    "sleeping bag": [
+        "quilt",
+        "tent",
+        "pillow"
+    ],
+    "slide rule": [
+        "ruler measuring stick",
+        "abacus"
+    ],
+    "sliding door": [],
+    "slot machine": [
+        "vending machine",
+        "joystick"
+    ],
+    "snorkel": [
+        "scuba diver",
+        "swimming cap",
+        "swim trunks / shorts"
+    ],
+    "snowmobile": [
+        "dog sled",
+        "motorboat",
+        "snowplow",
+        "ski"
+    ],
+    "snowplow": [
+        "tractor",
+        "snowmobile"
+    ],
+    "soap dispenser": [
+        "sink",
+        "shower curtain",
+        "toilet paper"
+    ],
+    "soccer ball": [
+        "basketball",
+        "volleyball",
+        "tennis ball",
+        "baseball",
+        "rugby ball"
+    ],
+    "sock": [
+        "tights",
+        "pajamas",
+        "slip-on shoe"
+    ],
+    "solar thermal collector": [
+        "electric fan"
+    ],
+    "sombrero": [
+        "cowboy hat",
+        "military hat (bearskin or shako)"
+    ],
+    "soup bowl": [
+        "plate",
+        "coffee mug"
+    ],
+    "keyboard space bar": [
+        "computer keyboard",
+        "space heater",
+        "space shuttle",
+        "electric fan",
+        "modem",
+        "monitor",
+        "laptop computer",
+        "notebook computer"
+    ],
+    "space heater": [
+        "electric fan",
+        "radiator",
+        "stove",
+        "space shuttle",
+        "television"
+    ],
+    "space shuttle": [
+        "airliner",
+        "aircraft carrier",
+        "military aircraft",
+        "missile",
+        "space heater"
+    ],
+    "spatula": [
+        "ladle",
+        "frying pan",
+        "mixing bowl",
+        "can opener",
+        "corkscrew"
+    ],
+    "motorboat": [
+        "canoe",
+        "sailboat",
+        "catamaran",
+        "lifeboat"
+    ],
+    "spider web": [],
+    "spindle": [
+        "rotary dial telephone"
+    ],
+    "sports car": [
+        "convertible",
+        "race car",
+        "limousine",
+        "pickup truck",
+        "minivan",
+        "station wagon"
+    ],
+    "spotlight": [
+        "projector",
+        "torch"
+    ],
+    "stage": [],
+    "steam locomotive": [
+        "electric locomotive",
+        "freight car",
+        "railroad car"
+    ],
+    "through arch bridge": [
+        "suspension bridge",
+        "viaduct",
+        "stone wall",
+        "dam"
+    ],
+    "steel drum": [
+        "barrel",
+        "Dutch oven",
+        "frying pan"
+    ],
+    "stethoscope": [
+        "syringe"
+    ],
+    "scarf": [
+        "cloak"
+    ],
+    "stone wall": [
+        "breakwater",
+        "cliff"
+    ],
+    "stopwatch": [
+        "digital watch",
+        "wall clock"
+    ],
+    "stove": [
+        "microwave oven",
+        "toaster"
+    ],
+    "strainer": [],
+    "tram": [
+        "trolleybus"
+    ],
+    "stretcher": [
+        "infant bed",
+        "cradle",
+        "bassinet"
+    ],
+    "couch": [],
+    "stupa": [
+        "obelisk"
+    ],
+    "submarine": [
+        "sailboat",
+        "canoe"
+    ],
+    "suit": [
+        "vestment"
+    ],
+    "sundial": [
+        "digital clock",
+        "analog clock",
+        "hourglass"
+    ],
+    "sunglasses": [
+        "binoculars",
+        "loupe magnifying glass"
+    ],
+    "sunscreen": [
+        "lotion",
+        "face powder"
+    ],
+    "suspension bridge": [
+        "viaduct"
+    ],
+    "mop": [
+        "broom",
+        "plunger"
+    ],
+    "sweatshirt": [
+        "cardigan"
+    ],
+    "swim trunks / shorts": [
+        "swimming cap",
+        "beach"
+    ],
+    "swing": [
+        "rocking chair"
+    ],
+    "electrical switch": [],
+    "syringe": [
+        "medicine cabinet"
+    ],
+    "table lamp": [
+        "lampshade"
+    ],
+    "tank": [],
+    "tape player": [
+        "cassette player",
+        "CD player",
+        "radio"
+    ],
+    "teapot": [
+        "coffee mug",
+        "tea cup"
+    ],
+    "teddy bear": [
+        "toy store"
+    ],
+    "television": [
+        "CRT monitor",
+        "remote control",
+        "entertainment center",
+        "digital watch"
+    ],
+    "tennis ball": [
+        "soccer ball",
+        "rugby ball",
+        "baseball",
+        "basketball",
+        "ping-pong ball"
+    ],
+    "thatched roof": [
+        "tile roof",
+        "shoji screen / room divider",
+        "hay",
+        "strawberry"
+    ],
+    "front curtain": [
+        "window shade",
+        "stage",
+        "velvet fabric",
+        "sundial"
+    ],
+    "thimble": [
+        "safety pin",
+        "buckle",
+        "mitten",
+        "knot"
+    ],
+    "threshing machine": [
+        "combine harvester",
+        "tractor",
+        "corn cob"
+    ],
+    "throne": [
+        "rocking chair",
+        "barber chair"
+    ],
+    "tile roof": [
+        "thatched roof",
+        "stone wall",
+        "cliff dwelling"
+    ],
+    "toaster": [
+        "microwave oven",
+        "Crock Pot",
+        "waffle iron",
+        "espresso machine"
+    ],
+    "tobacco shop": [
+        "candy store",
+        "grocery store",
+        "restaurant",
+        "butcher shop"
+    ],
+    "toilet seat": [
+        "shower curtain",
+        "bathtub",
+        "sink",
+        "shower cap",
+        "soap dispenser"
+    ],
+    "torch": [
+        "candle",
+        "lighter",
+        "fire screen"
+    ],
+    "totem pole": [
+        "megalith",
+        "obelisk",
+        "wooden spoon"
+    ],
+    "tow truck": [
+        "ambulance",
+        "fire truck",
+        "garbage truck",
+        "moving van",
+        "pickup truck"
+    ],
+    "toy store": [
+        "candy store",
+        "bookstore"
+    ],
+    "tractor": [
+        "combine harvester",
+        "bullock cart",
+        "forklift",
+        "lawn mower",
+        "construction crane"
+    ],
+    "semi-trailer truck": [
+        "container ship",
+        "freight car",
+        "moving van",
+        "pickup truck"
+    ],
+    "tray": [
+        "plate"
+    ],
+    "trench coat": [
+        "suit"
+    ],
+    "tricycle": [
+        "tandem bicycle",
+        "mountain bike",
+        "unicycle"
+    ],
+    "trimaran": [
+        "canoe",
+        "catamaran",
+        "sailboat",
+        "motorboat"
+    ],
+    "tripod": [
+        "crutch",
+        "pole"
+    ],
+    "triumphal arch": [
+        "viaduct",
+        "stone wall",
+        "through arch bridge",
+        "obelisk"
+    ],
+    "trolleybus": [
+        "school bus",
+        "minibus",
+        "limousine",
+        "pickup truck",
+        "semi-trailer truck"
+    ],
+    "trombone": [
+        "French horn",
+        "cornet",
+        "saxophone"
+    ],
+    "hot tub": [
+        "bathtub",
+        "swimming cap",
+        "pool table",
+        "shower curtain"
+    ],
+    "turnstile": [
+        "picket fence",
+        "chain-link fence"
+    ],
+    "typewriter keyboard": [
+        "computer keyboard",
+        "digital watch"
+    ],
+    "umbrella": [
+        "parachute"
+    ],
+    "unicycle": [
+        "tandem bicycle",
+        "mountain bike",
+        "moped"
+    ],
+    "upright piano": [
+        "grand piano",
+        "pipe organ"
+    ],
+    "vacuum cleaner": [
+        "washing machine",
+        "dishwasher"
+    ],
+    "vase": [],
+    "vaulted or arched ceiling": [
+        "dome"
+    ],
+    "velvet fabric": [
+        "wool"
+    ],
+    "vending machine": [],
+    "vestment": [],
+    "viaduct": [],
+    "violin": [
+        "cello"
+    ],
+    "volleyball": [
+        "soccer ball",
+        "basketball",
+        "tennis ball",
+        "rugby ball",
+        "baseball",
+        "football helmet"
+    ],
+    "waffle iron": [
+        "toaster",
+        "frying pan",
+        "espresso machine",
+        "microwave oven",
+        "stove"
+    ],
+    "wall clock": [
+        "digital clock",
+        "analog clock"
+    ],
+    "wallet": [
+        "purse",
+        "messenger bag",
+        "backpack"
+    ],
+    "wardrobe": [],
+    "military aircraft": [
+        "airliner"
+    ],
+    "sink": [
+        "bathtub"
+    ],
+    "washing machine": [
+        "dishwasher",
+        "refrigerator",
+        "vacuum cleaner"
+    ],
+    "water bottle": [
+        "soda bottle",
+        "water jug",
+        "wine bottle"
+    ],
+    "water jug": [],
+    "water tower": [
+        "water jug",
+        "water bottle",
+        "water buffalo",
+        "water snake",
+        "fountain",
+        "dam"
+    ],
+    "whiskey jug": [
+        "wine bottle",
+        "beer bottle"
+    ],
+    "whistle": [
+        "flute",
+        "ocarina",
+        "pan flute"
+    ],
+    "hair wig": [
+        "hair spray",
+        "hair clip",
+        "feather boa"
+    ],
+    "window screen": [
+        "window shade",
+        "mosquito net"
+    ],
+    "window shade": [
+        "window screen"
+    ],
+    "Windsor tie": [
+        "bow tie",
+        "scarf"
+    ],
+    "wine bottle": [
+        "whiskey jug",
+        "beer bottle",
+        "soda bottle"
+    ],
+    "airplane wing": [
+        "airliner",
+        "aircraft carrier"
+    ],
+    "wok": [
+        "frying pan",
+        "cauldron"
+    ],
+    "wooden spoon": [
+        "ladle",
+        "spatula",
+        "mixing bowl"
+    ],
+    "wool": [
+        "velvet fabric",
+        "tights",
+        "fur coat",
+        "sweatshirt",
+        "scarf"
+    ],
+    "split-rail fence": [
+        "stone wall",
+        "chain-link fence",
+        "picket fence",
+        "breakwater"
+    ],
+    "shipwreck": [
+        "canoe",
+        "gondola",
+        "catamaran",
+        "schooner",
+        "pirate ship"
+    ],
+    "sailboat": [
+        "canoe",
+        "gondola",
+        "catamaran",
+        "schooner",
+        "motorboat"
+    ],
+    "yurt": [
+        "tent",
+        "mobile home",
+        "dome"
+    ],
+    "website": [
+        "comic book",
+        "crossword",
+        "menu",
+        "dust jacket"
+    ],
+    "comic book": [
+        "website",
+        "crossword",
+        "menu",
+        "bookstore"
+    ],
+    "crossword": [
+        "website",
+        "comic book",
+        "menu",
+        "dust jacket"
+    ],
+    "traffic or street sign": [
+        "traffic light",
+        "parking meter"
+    ],
+    "traffic light": [
+        "stopwatch",
+        "digital clock",
+        "odometer"
+    ],
+    "dust jacket": [
+        "comic book",
+        "menu",
+        "bookstore"
+    ],
+    "menu": [
+        "dust jacket",
+        "comic book",
+        "restaurant",
+        "plate",
+        "tea cup"
+    ],
+    "plate": [
+        "soup bowl",
+        "pizza",
+        "cheeseburger",
+        "hot dog",
+        "ice cream",
+        "trifle",
+        "consomme",
+        "hot pot"
+    ],
+    "guacamole": [
+        "mashed potatoes",
+        "cabbage",
+        "broccoli",
+        "cauliflower",
+        "zucchini",
+        "corn"
+    ],
+    "consomme": [
+        "hot pot",
+        "trifle",
+        "ice cream",
+        "popsicle",
+        "soup bowl"
+    ],
+    "hot pot": [
+        "consomme",
+        "trifle",
+        "ice cream",
+        "popsicle",
+        "soup bowl"
+    ],
+    "trifle": [
+        "ice cream",
+        "popsicle"
+    ],
+    "ice cream": [
+        "popsicle",
+        "trifle"
+    ],
+    "popsicle": [
+        "ice cream",
+        "trifle"
+    ],
+    "baguette": [
+        "bagel",
+        "pretzel",
+        "dough",
+        "cheeseburger",
+        "hot dog",
+        "burrito",
+        "pizza",
+        "carbonara",
+        "mashed potatoes"
+    ],
+    "bagel": [
+        "baguette",
+        "pretzel",
+        "dough",
+        "cheeseburger",
+        "hot dog",
+        "pizza",
+        "burrito",
+        "cabbage",
+        "broccoli"
+    ],
+    "pretzel": [
+        "baguette",
+        "bagel",
+        "dough",
+        "cheeseburger",
+        "hot dog",
+        "pizza",
+        "mashed potatoes",
+        "zucchini",
+        "cauliflower"
+    ],
+    "cheeseburger": [
+        "hot dog",
+        "baguette",
+        "bagel",
+        "pretzel",
+        "pizza",
+        "burrito",
+        "mashed potatoes"
+    ],
+    "hot dog": [
+        "cheeseburger",
+        "baguette",
+        "bagel",
+        "pretzel",
+        "pizza",
+        "burrito",
+        "mashed potatoes"
+    ],
+    "mashed potatoes": [
+        "cheeseburger",
+        "hot dog",
+        "pot pie",
+        "pizza",
+        "burrito",
+        "cabbage",
+        "broccoli",
+        "cauliflower",
+        "zucchini"
+    ],
+    "cabbage": [
+        "broccoli",
+        "cauliflower",
+        "zucchini",
+        "mashed potatoes",
+        "cucumber",
+        "artichoke",
+        "bell pepper"
+    ],
+    "broccoli": [
+        "cabbage",
+        "cauliflower",
+        "zucchini",
+        "mashed potatoes"
+    ],
+    "cauliflower": [
+        "cabbage",
+        "broccoli",
+        "zucchini",
+        "mashed potatoes"
+    ],
+    "zucchini": [
+        "cabbage",
+        "broccoli",
+        "cauliflower",
+        "mashed potatoes",
+        "cucumber",
+        "spaghetti squash",
+        "acorn squash"
+    ],
+    "spaghetti squash": [
+        "acorn squash",
+        "butternut squash",
+        "zucchini",
+        "cucumber"
+    ],
+    "acorn squash": [
+        "spaghetti squash",
+        "butternut squash",
+        "zucchini"
+    ],
+    "butternut squash": [
+        "spaghetti squash",
+        "acorn squash",
+        "zucchini"
+    ],
+    "cucumber": [
+        "zucchini",
+        "spaghetti squash",
+        "acorn squash",
+        "butternut squash",
+        "artichoke",
+        "mushroom"
+    ],
+    "artichoke": [
+        "cardoon",
+        "cabbage",
+        "broccoli",
+        "cauliflower",
+        "mushroom"
+    ],
+    "bell pepper": [
+        "zucchini",
+        "cucumber",
+        "mushroom",
+        "artichoke"
+    ],
+    "cardoon": [
+        "artichoke",
+        "cabbage",
+        "broccoli",
+        "cauliflower",
+        "mushroom"
+    ],
+    "mushroom": [
+        "artichoke",
+        "cardoon"
+    ],
+    "Granny Smith apple": [
+        "strawberry",
+        "orange",
+        "lemon",
+        "fig",
+        "pineapple",
+        "banana"
+    ],
+    "strawberry": [
+        "Granny Smith apple",
+        "orange",
+        "lemon",
+        "fig",
+        "pineapple",
+        "banana"
+    ],
+    "orange": [
+        "lemon"
+    ],
+    "lemon": [
+        "orange"
+    ],
+    "fig": [
+        "pomegranate"
+    ],
+    "pineapple": [
+        "banana"
+    ],
+    "banana": [
+        "pineapple"
+    ],
+    "jackfruit": [
+        "pineapple",
+        "fig"
+    ],
+    "cherimoya (custard apple)": [],
+    "pomegranate": [
+        "fig",
+        "strawberry"
+    ],
+    "hay": [
+        "corn"
+    ],
+    "carbonara": [],
+    "chocolate syrup": [
+        "ice cream"
+    ],
+    "dough": [
+        "pretzel"
+    ],
+    "meatloaf": [
+        "burrito",
+        "pot pie"
+    ],
+    "pizza": [
+        "cheeseburger",
+        "baguette"
+    ],
+    "pot pie": [
+        "meatloaf"
+    ],
+    "burrito": [],
+    "red wine": [],
+    "espresso": [
+        "coffee mug",
+        "tea cup"
+    ],
+    "tea cup": [
+        "coffee mug",
+        "teapot"
+    ],
+    "eggnog": [],
+    "mountain": [
+        "valley",
+        "cliff",
+        "volcano",
+        "promontory"
+    ],
+    "bubble": [
+        "geyser",
+        "lakeshore",
+        "beach",
+        "coral reef"
+    ],
+    "cliff": [
+        "mountain",
+        "promontory",
+        "valley"
+    ],
+    "coral reef": [
+        "geyser",
+        "lakeshore",
+        "beach",
+        "sandbar"
+    ],
+    "geyser": [
+        "volcano",
+        "fountain"
+    ],
+    "lakeshore": [
+        "beach",
+        "sandbar",
+        "valley"
+    ],
+    "promontory": [
+        "cliff",
+        "mountain"
+    ],
+    "sandbar": [
+        "beach",
+        "lakeshore"
+    ],
+    "beach": [
+        "sandbar",
+        "lakeshore"
+    ],
+    "valley": [
+        "mountain"
+    ],
+    "volcano": [
+        "geyser",
+        "mountain",
+        "cliff",
+        "coral reef"
+    ],
+    "baseball player": [
+        "rugby ball",
+        "baseball",
+        "tennis ball",
+        "soccer ball"
+    ],
+    "bridegroom": [
+        "graduation cap",
+        "military uniform"
+    ],
+    "scuba diver": [
+        "lifeboat",
+        "snorkel",
+        "swimming cap"
+    ],
+    "rapeseed": [
+        "corn",
+        "daisy",
+        "hay",
+        "broccoli"
+    ],
+    "daisy": [
+        "rapeseed",
+        "corn",
+        "hay",
+        "yellow lady's slipper"
+    ],
+    "yellow lady's slipper": [
+        "daisy",
+        "rapeseed",
+        "ladybug"
+    ],
+    "corn": [
+        "rapeseed",
+        "daisy",
+        "hay",
+        "corn cob"
+    ],
+    "acorn": [
+        "horse chestnut seed",
+        "pineapple",
+        "strawberry",
+        "orange"
+    ],
+    "rose hip": [
+        "strawberry",
+        "orange",
+        "lemon",
+        "fig"
+    ],
+    "horse chestnut seed": [
+        "acorn",
+        "corn",
+        "corn cob",
+        "rose hip"
+    ],
+    "coral fungus": [
+        "agaric",
+        "gyromitra",
+        "stinkhorn mushroom",
+        "earth star fungus",
+        "hen of the woods mushroom",
+        "bolete"
+    ],
+    "agaric": [
+        "coral fungus",
+        "gyromitra",
+        "stinkhorn mushroom",
+        "earth star fungus",
+        "hen of the woods mushroom",
+        "bolete"
+    ],
+    "gyromitra": [
+        "coral fungus",
+        "agaric",
+        "stinkhorn mushroom",
+        "earth star fungus",
+        "hen of the woods mushroom",
+        "bolete"
+    ],
+    "stinkhorn mushroom": [
+        "coral fungus",
+        "agaric",
+        "gyromitra",
+        "earth star fungus",
+        "hen of the woods mushroom",
+        "bolete"
+    ],
+    "earth star fungus": [
+        "coral fungus",
+        "agaric",
+        "gyromitra",
+        "stinkhorn mushroom",
+        "hen of the woods mushroom",
+        "bolete"
+    ],
+    "hen of the woods mushroom": [
+        "coral fungus",
+        "agaric",
+        "gyromitra",
+        "stinkhorn mushroom",
+        "earth star fungus",
+        "bolete"
+    ],
+    "bolete": [
+        "coral fungus",
+        "agaric",
+        "gyromitra",
+        "stinkhorn mushroom",
+        "earth star fungus",
+        "hen of the woods mushroom"
+    ],
+    "corn cob": [
+        "corn",
+        "acorn",
+        "horse chestnut seed",
+        "rose hip"
+    ],
+    "toilet paper": [
+        "paper towel",
+        "dust jacket",
+        "cardboard box / carton"
+    ]
+}
